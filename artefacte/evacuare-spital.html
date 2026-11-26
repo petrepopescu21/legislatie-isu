@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Lungimi de evacuare în spitale</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+/* Layout: o coloană de lucru — alegeri sus, rezultat mare la mijloc, tabelele-sursă dedesubt.
+   Accentul este verdele indicatoarelor de ieșire de urgență. */
+:root {
+  --bg: #f3f5f4;
+  --surface: #ffffff;
+  --ink: #17231f;
+  --muted: #5a6b65;
+  --line: #d5dcd9;
+  --exit: #0a7a4b;        /* verde „ieșire” */
+  --exit-soft: #dff1e8;
+  --warn: #9a5b00;
+  --warn-soft: #fbefd6;
+  --font-display: "Barlow Condensed", "Arial Narrow", Arial, sans-serif;
+  --font-body: "IBM Plex Sans", "Segoe UI", system-ui, sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --bg: #101614; --surface: #18201d; --ink: #e7eeeb; --muted: #9aaaa4; --line: #2c3833;
+    --exit: #3fcf8e; --exit-soft: #15342a; --warn: #f0b95a; --warn-soft: #3a2c10;
+  }
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: #101614; --surface: #18201d; --ink: #e7eeeb; --muted: #9aaaa4; --line: #2c3833;
+  --exit: #3fcf8e; --exit-soft: #15342a; --warn: #f0b95a; --warn-soft: #3a2c10;
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; }
+body { background: var(--bg); color: var(--ink); font-family: var(--font-body); font-size: 16px; line-height: 1.5; }
+main { max-width: 860px; margin: 0 auto; padding: 28px 16px 48px; display: flex; flex-direction: column; gap: 20px; }
+h1 { font-family: var(--font-display); font-weight: 600; font-size: 2.3rem; line-height: 1.05; margin: 0; text-wrap: balance; }
+h2 { font-family: var(--font-display); font-weight: 600; font-size: 1.35rem; margin: 0 0 10px; letter-spacing: .01em; }
+.lede { color: var(--muted); margin: 6px 0 0; max-width: 65ch; }
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 18px; }
+fieldset { border: 0; padding: 0; margin: 0; min-width: 0; }
+legend { padding: 0; font-weight: 600; font-size: .9rem; margin-bottom: 6px; }
+.controls { display: grid; gap: 16px; }
+.seg { display: flex; flex-wrap: wrap; gap: 6px; }
+.seg label { position: relative; cursor: pointer; }
+.seg input { position: absolute; opacity: 0; inset: 0; }
+.seg span { display: block; padding: 8px 14px; border: 1px solid var(--line); border-radius: 8px; background: var(--bg); font-size: .95rem; }
+.seg input:checked + span { background: var(--exit); border-color: var(--exit); color: var(--surface); font-weight: 600; }
+.seg input:focus-visible + span { outline: 2px solid var(--ink); outline-offset: 2px; }
+fieldset:disabled { opacity: .45; }
+fieldset:disabled label { cursor: not-allowed; }
+.check { display: flex; gap: 10px; align-items: flex-start; cursor: pointer; }
+.check input { width: 18px; height: 18px; margin-top: 3px; accent-color: var(--exit); }
+.result { border-left: 6px solid var(--exit); }
+.nums { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 18px; }
+.num .lab { font-size: .9rem; color: var(--muted); }
+.num .val { font-family: var(--font-display); font-weight: 600; font-size: 4rem; line-height: 1; font-variant-numeric: tabular-nums; }
+.num .val small { font-size: 1.6rem; font-weight: 500; margin-left: 4px; }
+.num .base { font-size: .85rem; color: var(--muted); min-height: 1.3em; }
+.track { position: relative; height: 14px; background: var(--bg); border: 1px solid var(--line); border-radius: 7px; margin-top: 8px; overflow: hidden; }
+.track i { position: absolute; top: 0; bottom: 0; left: 0; background: var(--exit); transition: width .25s; }
+.track b { position: absolute; top: 0; bottom: 0; background: repeating-linear-gradient(135deg, var(--exit) 0 4px, var(--exit-soft) 4px 8px); transition: left .25s, width .25s; }
+.scale { display: flex; justify-content: space-between; font-size: .72rem; color: var(--muted); font-variant-numeric: tabular-nums; margin-top: 2px; }
+.src { margin: 14px 0 0; font-size: .95rem; }
+.src strong { color: var(--exit); }
+.notes { list-style: none; margin: 12px 0 0; padding: 0; display: grid; gap: 8px; }
+.notes li { padding: 9px 12px; border-radius: 8px; background: var(--exit-soft); font-size: .93rem; }
+.notes li.warn { background: var(--warn-soft); color: var(--warn); }
+.tablewrap { overflow-x: auto; }
+table { border-collapse: collapse; width: 100%; min-width: 520px; font-variant-numeric: tabular-nums; }
+th, td { text-align: left; padding: 8px 10px; border-bottom: 1px solid var(--line); font-size: .93rem; }
+th { font-size: .78rem; text-transform: uppercase; letter-spacing: .05em; color: var(--muted); font-weight: 600; }
+td.n { text-align: right; } th.n { text-align: right; }
+tr.on td { background: var(--exit-soft); font-weight: 600; }
+tr.on td:first-child { box-shadow: inset 4px 0 0 var(--exit); }
+.fine { color: var(--muted); font-size: .85rem; max-width: 70ch; margin: 0; }
+@media (prefers-reduced-motion: reduce) { .track i, .track b { transition: none; } }
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <h1>Lungimi maxime de evacuare în clădiri pentru sănătate</h1>
+    <p class="lede">Alege situația clădirii și vezi lungimea maximă admisă a traseului de evacuare, potrivit Normativului P&nbsp;118/1-2025. Se aplică spitalelor, policlinicilor, centrelor medicale, sanatoriilor și căminelor de bătrâni.</p>
+  </header>
+
+  <section class="card controls" aria-label="Situația clădirii">
+    <fieldset id="fs-h">
+      <legend>Regim de înălțime</legend>
+      <div class="seg">
+        <label><input type="radio" name="h" id="h-ob" value="ob" checked><span>Înălțime obișnuită</span></label>
+        <label><input type="radio" name="h" id="h-in" value="in"><span>Înaltă (28–45 m)</span></label>
+        <label><input type="radio" name="h" id="h-fi" value="fi"><span>Foarte înaltă (≥ 45 m)</span></label>
+      </div>
+    </fieldset>
+    <fieldset id="fs-n">
+      <legend>Nivel de stabilitate la incendiu</legend>
+      <div class="seg">
+        <label><input type="radio" name="n" id="n-1" value="0" checked><span>I sau II</span></label>
+        <label><input type="radio" name="n" id="n-3" value="1"><span>III</span></label>
+        <label><input type="radio" name="n" id="n-4" value="2"><span>IV</span></label>
+        <label><input type="radio" name="n" id="n-5" value="3"><span>V</span></label>
+      </div>
+    </fieldset>
+    <fieldset id="fs-t">
+      <legend>Transportul bolnavilor cu targa sau căruciorul</legend>
+      <div class="seg">
+        <label><input type="radio" name="t" id="t-da" value="1" checked><span>Este necesar</span></label>
+        <label><input type="radio" name="t" id="t-nu" value="0"><span>Nu este necesar</span></label>
+      </div>
+    </fieldset>
+    <fieldset id="fs-e">
+      <legend>Echipare</legend>
+      <div style="display:grid;gap:8px">
+        <label class="check" for="e-full"><input type="checkbox" id="e-full"><span>Detectare cu acoperire totală, stingere automată și control al fumului în coridoare, holuri și case de scări</span></label>
+        <label class="check" for="e-pers" id="lab-pers"><input type="checkbox" id="e-pers"><span>Sectorul este accesibil doar personalului (nu este utilizat de bolnavi)</span></label>
+      </div>
+    </fieldset>
+  </section>
+
+  <section class="card result" aria-live="polite">
+    <h2>Lungime maximă admisă</h2>
+    <div class="nums">
+      <div class="num">
+        <div class="lab">În două direcții diferite</div>
+        <div class="val"><span id="v2">38</span><small>m</small></div>
+        <div class="base" id="b2"></div>
+        <div class="track"><i id="t2"></i><b id="x2"></b></div>
+        <div class="scale"><span>0</span><span>10</span><span>20</span><span>30</span><span>40</span><span>50 m</span></div>
+      </div>
+      <div class="num">
+        <div class="lab">Într-o direcție (coridor înfundat)</div>
+        <div class="val"><span id="v1">18</span><small>m</small></div>
+        <div class="base" id="b1"></div>
+        <div class="track"><i id="t1"></i><b id="x1"></b></div>
+        <div class="scale"><span>0</span><span>10</span><span>20</span><span>30</span><span>40</span><span>50 m</span></div>
+      </div>
+    </div>
+    <p class="src">Temei: <strong id="src"></strong></p>
+    <ul class="notes" id="notes"></ul>
+  </section>
+
+  <section class="card">
+    <h2>Valorile din normativ</h2>
+    <div class="tablewrap">
+      <table>
+        <thead><tr><th>Situație</th><th>Nivel de stabilitate</th><th class="n">Două direcții</th><th class="n">Coridor înfundat</th><th>Sursa</th></tr></thead>
+        <tbody id="tb"></tbody>
+      </table>
+    </div>
+  </section>
+
+  <p class="fine">Valorile sunt extrase din forma oficială a Normativului P 118/1-2025 (Ordinul MDLPA nr. 267/2025, M.Of. nr. 204 bis din 10.03.2025), descărcată de pe Portalul Legislativ la 26.11.2026. Tabelele 67 și 68 nu se aplică sălilor aglomerate. Pagina este un ajutor de lucru; pentru un proiect, verifică textul integral al articolelor citate.</p>
+</main>
+
+<script>
+(function () {
+  var NIV = ["I și/sau II", "III", "IV", "V"];
+  var T67 = [[38, 18], [18, 12], [12, 8], [8, 6]];
+  var T68 = [[40, 20], [24, 16], [15, 10], [10, 6]];
+  var ROWS = [];
+  T67.forEach(function (v, i) { ROWS.push({ k: "ob-1-" + i, s: "Înălțime obișnuită, cu targă/cărucior", n: NIV[i], v: v, src: "Tabelul 67, art. 3.2.4.8" }); });
+  T68.forEach(function (v, i) { ROWS.push({ k: "ob-0-" + i, s: "Înălțime obișnuită, fără targă/cărucior", n: NIV[i], v: v, src: "Tabelul 68, art. 3.2.4.8" }); });
+  ROWS.push({ k: "in", s: "Clădire înaltă", n: "—", v: [35, 20], src: "Tabelul 93, art. 4.1.5.6" });
+  ROWS.push({ k: "fi", s: "Clădire foarte înaltă", n: "—", v: [25, 15], src: "Tabelul 97, art. 4.2.5.6" });
+
+  var $ = function (id) { return document.getElementById(id); };
+  var tb = $("tb");
+  ROWS.forEach(function (r) {
+    var tr = document.createElement("tr");
+    tr.dataset.k = r.k;
+    [r.s, r.n, r.v[0] + " m", r.v[1] + " m", r.src].forEach(function (t, i) {
+      var td = document.createElement("td");
+      td.textContent = t;
+      if (i === 2 || i === 3) td.className = "n";
+      tr.appendChild(td);
+    });
+    tb.appendChild(tr);
+  });
+
+  function val(name) { return document.querySelector('input[name="' + name + '"]:checked').value; }
+  function fmt(x) { return String(Math.round(x * 100) / 100).replace(".", ","); }
+  function bar(base, total, fill, extra) {
+    fill.style.width = (base / 50 * 100) + "%";
+    extra.style.left = (base / 50 * 100) + "%";
+    extra.style.width = ((total - base) / 50 * 100) + "%";
+  }
+
+  function render() {
+    var h = val("h"), n = +val("n"), t = val("t") === "1";
+    var full = $("e-full").checked, pers = $("e-pers").checked;
+    var ob = h === "ob";
+    $("fs-n").disabled = !ob; $("fs-t").disabled = !ob; $("fs-e").disabled = !ob;
+    var needPers = ob && t && full;
+    $("e-pers").disabled = !needPers;
+    $("lab-pers").style.opacity = needPers ? 1 : .45;
+
+    var key = ob ? "ob-" + (t ? 1 : 0) + "-" + n : h;
+    var row = ROWS.filter(function (r) { return r.k === key; })[0];
+    var bonus = ob && full && (!t || pers);
+    var f = bonus ? 1.25 : 1;
+    var a = row.v[0] * f, b = row.v[1] * f;
+
+    $("v2").textContent = fmt(a); $("v1").textContent = fmt(b);
+    $("b2").textContent = bonus ? row.v[0] + " m din tabel + 25%" : "";
+    $("b1").textContent = bonus ? row.v[1] + " m din tabel + 25%" : "";
+    bar(row.v[0], a, $("t2"), $("x2")); bar(row.v[1], b, $("t1"), $("x1"));
+    $("src").textContent = "P 118/1-2025, " + row.src + (bonus ? ", nota (a)" : "");
+
+    var notes = [];
+    if (ob) {
+      if (bonus) notes.push(["", "Majorare de 25% aplicată: clădirea are detectare cu acoperire totală, stingere automată și control al fumului" + (t ? ", iar sectorul este accesibil doar personalului." : ".")]);
+      if (t && full && !pers) notes.push(["warn", "Majorarea de 25% nu se aplică sectoarelor utilizate de bolnavi. La clădirile cu transport cu targa, ea este permisă doar în sectoarele accesibile exclusiv personalului."]);
+      if (n === 3) notes.push(["warn", "Nivelul V de stabilitate la incendiu este admis numai la clădiri parter."]);
+      notes.push(["", "La lucrări de intervenție pe spitale existente care nu se extind, Anexa 10 pct. A.10.3.10.53 trimite la același Tabel 67."]);
+    } else {
+      notes.push(["", "Lungimea se măsoară de la ușa încăperii până la cea mai apropiată ușă a încăperii tampon a scării închise de evacuare."]);
+      notes.push(["", "Lungimea într-o direcție se aplică și în interiorul încăperilor."]);
+      notes.push(["warn", "Pe circulațiile deschise spre atrium, lungimile se reduc cu 25% (art. 3.1.5.4 alin. (2)). Nivelul de stabilitate, transportul cu targa și majorarea de 25% din Tabelele 67–68 nu se aplică aici."]);
+    }
+    var ul = $("notes"); ul.textContent = "";
+    notes.forEach(function (x) { var li = document.createElement("li"); if (x[0]) li.className = x[0]; li.textContent = x[1]; ul.appendChild(li); });
+
+    Array.prototype.forEach.call(tb.children, function (tr) { tr.className = tr.dataset.k === key ? "on" : ""; });
+  }
+
+  document.querySelector(".controls").addEventListener("change", render);
+  render();
+})();
+</script>
+</body>
+</html>

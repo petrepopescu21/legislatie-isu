@@ -1,0 +1,14 @@
+---
+act: Normativ privind securitatea la incendiu a construcțiilor, indicativ P 118/1-2025
+citare: "art. 4.1.4.2"
+structura: ["4. PERFORMANȚE SPECIFICE CLĂDIRILOR CIVILE SUPRATERANE ÎNALTE, FOARTE ÎNALTE SAU CU SĂLI AGLOMERATE", "4.1. Clădiri civile supraterane înalte", "4.1.4. Alcătuiri constructive ale elementelor de construcție"]
+tabele: []
+figuri: []
+forma: publicat M.Of. 204 bis/10.03.2025, fără modificări
+sursa: https://legislatie.just.ro/Public/DetaliiDocument/295705
+---
+
+# Art. 4.1.4.2
+(1) Închiderile perimetrale ale clădirilor înalte vor fi astfel proiectate și realizate încât să asigure limitarea propagării focului de la un nivel la altul, potrivit prevederilor Art. 2.3.6.1.2. și Art. 2.3.6.1.3. pentru întârzierea propagării incendiilor între nivelurile construcției prin exteriorul închiderii perimetrale (pe fațade), iar pentru întârzierea propagării incendiilor prin interiorul construcției, spațiile libere dintre planșee și peretele cortină se etanșează cu sisteme având aceeași rezistență la foc conform prevederilor generale, dar minimum EI 90.
+(2) Pentru limitarea propagării focului de la un nivel la altul, prin exteriorul construcției (pe fațadă), pereții cortină utilizați la clădirile înalte trebuie să îndeplinească cerințele subcapitolului 2.4.7.1.1. referitoare la clădiri înalte.
+(3) La clădirile înalte, cel puțin până la înălțimea de 28 m față de terenul înconjurător sau de carosabil, în exteriorul pereților cortină se marchează distinct locurile pe unde pot pătrunde în clădire formațiile de intervenție în caz de incendiu.

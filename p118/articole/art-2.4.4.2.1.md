@@ -1,0 +1,32 @@
+---
+act: Normativ privind securitatea la incendiu a construcțiilor, indicativ P 118/1-2025
+citare: "art. 2.4.4.2.1"
+structura: ["2. PERFORMANȚE COMUNE CONSTRUCȚIILOR CU ORICE DESTINAȚIE (CIVILE, DE PRODUCȚIE ȘI/SAU DEPOZITARE)", "2.4. Alcătuiri constructive", "2.4.4. Ascensoare", "2.4.4.2. Ascensoare pentru circulația funcțională, de persoane, de marfă și alte sisteme de transport de materiale pe verticală"]
+tabele: []
+figuri: []
+forma: publicat M.Of. 204 bis/10.03.2025, fără modificări
+sursa: https://legislatie.just.ro/Public/DetaliiDocument/295705
+---
+
+# Art. 2.4.4.2.1
+(1) Puțurile ascensoarelor prevăzute pentru circulația funcțională a persoanelor și în general ale sistemelor de transport pe verticală, se separă de restul construcției prin elemente verticale și după caz, orizontale, clasa de reacție la foc A1 sau A2-s1,d0 acolo unde nu sunt altfel specificate în text și rezistente la foc corespunzător nivelului de stabilitate la incendiu asigurat, tipului de clădire și destinației, dar minimum:
+  - a) pereți rezistenți la foc EI/REI 120 și după caz, planșee minimum REI 90, în construcțiile cu nivelul de stabilitate la incendiu I;
+  - b) pereți rezistenți la foc EI/REI 90 și după caz, planșee minimum REI 60, în construcțiile cu nivelul de stabilitate la incendiu II;
+  - c) pereți rezistenți la foc EI/REI 60 și după caz, planșee minimum REI 45, în construcțiile cu nivelul de stabilitate la incendiu III;
+  - d) pereți rezistenți la foc EI/REI 45 și după caz, planșee minimum REI 30, în construcțiile cu nivelul de stabilitate la incendiu IV;
+  - e) pereți rezistenți la foc EI 30 și după caz, planșee minimum REI 15, în construcțiile cu nivelul de stabilitate la incendiu V (acolo unde acestea sunt admise).
+(2) La clădirile înalte și foarte înalte precum și la funcțiuni specifice, se respectă prevederile privind performanțele specifice separării puțurilor pentru ascensoare față de restul construcției.
+(3) Ușile stațiilor ascensoarelor prevăzute pentru circulația funcțională a persoanelor și în general ale sistemelor de transport pe verticală care debușează în spații open space (acolo unde acestea sunt admise), vor avea caracteristicile de performanță ale ușilor conformate în acord cu Art. 2.4.4.2.5. pentru ușile stațiilor ascensoarelor prevăzute pentru circulația funcțională a persoanelor și alin. (7) pentru ușile stațiilor ascensoarelor mici de materiale (tip monte-charge), electrice sau hidraulice. La clădirile înalte, foarte înalte și la cele cu săli aglomerate se respectă dispozițiile specifice.
+(4) Dacă cel puțin o stație a ascensoarelor și, în general, a sistemelor de transport pe verticală, debușează în spații neprotejate de fum (cu excepția holurilor sau a coridoarelor prevăzute cu pereți rezistenți la foc, a degajamentelor/tunelurilor protejate etc.) care au caracteristici de performanță mai mari ale ușilor încăperilor sau caracteristici de performanță mai mari ale pereților (generate de funcțiune sau densitate de sarcină termică), ascensoarele se vor conforma (cel puțin pe nivelul respectiv, în funcție de situație) în acord cu acele condiții.
+(5) Ca soluție alternativă, în situațiile în care nu este necesară asigurarea evacuării fumului și a gazelor fierbinți în caz de incendiu a spațiului în care ușile prevăzute la alin. (3) și (4) debușează (în conformitate cu prevederile normate), se poate prevedea un sas (la intrarea în ascensorul de persoane) a cărui ușă către aceste spații să transfere caracteristicile de performanță descrise la alin. (3) și (4). În condițiile în care este necesară asigurarea evacuării fumului și a gazelor fierbinți, în caz de incendiu, a spațiului în care ușile prevăzute la alin. (3) și (4) debușează (în conformitate cu prevederile normate), se va prevedea încăpere tampon protejată.
+(6) Ascensoarele mici de materiale (tip monte-charge), electrice sau hidraulice, se separă cu pereți și planșee, după caz, rezistenți la foc conform alin. (1).
+(7) Golurile de acces la ascensoarele mici de materiale (tip monte-charge), electrice sau hidraulice, care debușează în holuri/coridoare, se protejează minimum:
+  - a) în construcțiile cu nivelul de stabilitate la incendiu I: uși de palier (ale ascensoarelor) rezistente la foc EI 60;
+  - b) în construcțiile cu nivelul de stabilitate la incendiu II: uși de palier (ale ascensoarelor) rezistente la foc EI 45;
+  - c) în construcțiile cu nivelul de stabilitate la incendiu III: uși de palier (ale ascensoarelor) rezistente la foc minimum EI 30;
+  - d) în construcțiile cu nivelul de stabilitate la incendiu IV: uși de palier (ale ascensoarelor) rezistente la foc EI 20;
+  - e) în construcțiile cu nivelul de stabilitate la incendiu V (acolo unde normativul permite): uși de palier (ale ascensoarelor) rezistente la foc EI 15.
+(8) Dacă cel puțin o stație debușează într-un spațiu care necesită uși cu caracteristici de performanță privind rezistența la foc mai mari (generate de funcțiune sau densitate de sarcină termică), golurile de acces la ascensoarele mici de materiale (tip monte-charge), electrice sau hidraulice se vor conforma (cel puțin pe nivelul respectiv, în funcție de situație) cu uși în acord cu acele condiții.
+(9) Dacă ascensoarele mici de materiale (tip monte-charge), electrice sau hidraulice au cabina cu două accese, toate golurile de acces prevăzute trebuie să îndeplinească condițiile de la alin. (7).
+(10) De la prevederile alin. (1) sunt exceptate ascensoarele panoramice. Ușile de palier ale ascensoarelor panoramice, montate pe fațadele clădirilor, trebuie să fie etanșe la foc minimum E 30 . De asemenea, în această situație se iau măsuri de preîntâmpinare a propagării incendiului pe fațadă în conformitate cu Art. 2.3.6.1.2.÷ Art. 2.3.6.1.6. În cazul pereților vitrați ai ascensoarelor panoramice se consideră îndeplinită condiția, atunci când sunt realizați cu structuri din profile având clasa de reacție la foc A1 sau A2-s1,d0, cu excepția componentelor nesubstanțiale, a izolatorilor și garniturilor, prevăzute cu panouri de umplere din elemente de vitraj/sticlă simplă sau izolantă sau din produse clasa de reacție la foc A1 sau A2-s1,d0, cu rezistența la foc EI sau etanșeitatea la foc E necesară, conform cerințelor Art. 2.3.6.1.2. ÷ Art. 2.3.6.1.6. privind propagarea incendiilor de la un nivel la altul (pe fațade sau prin interior).
+(11) Holurile ascensoarelor de circulație funcțională a persoanelor din clădirile publice pot să comunice liber cu spațiile publice de pe nivel.

@@ -1,0 +1,26 @@
+---
+act: Normativ privind securitatea la incendiu a construcțiilor, indicativ P 118/1-2025
+citare: "art. 2.4.3.2"
+structura: ["2. PERFORMANȚE COMUNE CONSTRUCȚIILOR CU ORICE DESTINAȚIE (CIVILE, DE PRODUCȚIE ȘI/SAU DEPOZITARE)", "2.4. Alcătuiri constructive", "2.4.3. Circulații comune orizontale"]
+tabele: []
+figuri: []
+forma: publicat M.Of. 204 bis/10.03.2025, fără modificări
+sursa: https://legislatie.just.ro/Public/DetaliiDocument/295705
+---
+
+# Art. 2.4.3.2
+(1) Pereții și planșeele de separare a circulațiilor comune orizontale funcționale și de evacuare din clădiri civile față de restul construcției, vor corespunde prevederilor privind performanțele specifice destinației și tipului acestor clădiri. Pereții și planșeele de separare a circulațiilor comune orizontale față de încăperile de depozitare vor îndeplini și condițiile specifice respectivelor riscuri de incendiu, adoptând valoarea cea mai mare.
+(2) Pereții de separare față de restul construcției a circulațiilor comune orizontale funcționale și de evacuare din clădiri civile înalte, foarte înalte și cu săli aglomerate, precum și în alte situații stabilite în normativ, vor respecta condițiile specifice acestora.
+(3) În construcțiile de producție și/sau depozitare, pereții de separare a circulațiilor comune orizontale funcționale și de evacuare a utilizatorilor față de restul construcției, vor îndeplini și condițiile specifice respectivelor riscuri de incendiu și/sau explozie volumetrică din încăperile adiacente.
+(4) La realizarea separărilor în spațiile (de lucru - pentru funcțiunea administrativă sau de alt tip conform funcțiune) deschise, pentru activități care necesită o comunicare frecventă sau în spațiile deschise cu același risc de incendiu și destinație (proprie sau complementară) de tip open space, trebuie să se țină cont de următoarele cerințe:
+  - a) panourile de compartimentare trebuie realizate din materiale clasa de reacție la foc A1 sau A2-s1,d0, cu excepția componentelor nesubstanțiale, a elementelor de vitraj (din sticlă) simplu sau izolant și a garniturilor de vitrare; panourile de compartimentare trebuie să asigure o suprafață minimă vitrată de 50 % din aria lor pe latura pe care este amplasată ușa. Vitrajele pe latura pe care este amplasată ușa se vor amplasa deasupra treimii inferioare a panourilor de compartimentare, urmărind asigurarea vizibilității în zona ochilor utilizatorilor. Peste vitraje pe latura pe care este amplasată ușa este interzisă aplicarea de folii pentru obturarea privirii sau a amplasării de obiecte de mobilier lângă acestea.
+  - b) panourile de compartimentare nu trebuie să influențeze funcționarea instalațiilor de protecție împotriva incendiilor;
+  - c) circulațiile comune orizontale rezultate în urma separărilor (delimitate de pereți rezistenți la foc) trebuie prevăzute cu sisteme de control al fumului și gazelor fierbinți în caz de incendiu (conform prevederi normate), iar în cazul utilizării evacuării mecanice a fumului se prevăd sisteme cu deschidere automată comandată de centrala de detecție, semnalizare și avertizare incendiu, dacă nu au ferestre directe cu ochiuri mobile spre exterior prin care să se evacueze fumul în caz de incendiu;
+  - d) lungimea căii de evacuare se calculează pornind de la punctul cel mai îndepărtat (la maximum 40 cm față de perete) al spațiilor de tip open space până la intrarea în cel mai apropiat spațiu protejat (încăpere tampon protejată, degajament protejat, scară de evacuare etc.) sau până la ieșirea în exterior, și trebuie să fie maximul valorii stabilite de normativ pentru 2 direcții, atunci când acestea sunt necesare, având în vedere panourile de separare și mobilierul fix; în situația scărilor deschise, lungimea de evacuare se măsoară până la prima treaptă a acestora; este necesar ca pentru spațiile de tip deschis să se asigure minimum două căi de evacuare distincte și independente;
+  - e) finisajele spațiilor de tip deschis trebuie să îndeplinească cerințele prevăzute pentru circulațiile orizontale de evacuare;
+  - f) parapetele, panourile și pereții interiori despărțitori funcționali având clasa de reacție la foc A1 sau A2-s1,d0 din cadrul unor grupări de spații (de lucru - pentru funcțiunea administrativă sau de alt tip conform funcțiune) deschise, pentru activități care necesită o comunicare frecventă de tip open space sau de spații cu același risc de incendiu și destinație (proprie sau complementară), cu suprafața maxim normată pot fi utilizați în raport cu orice nivel de stabilitate la incendiu;
+  - g) parapetele și/sau panourile din materiale combustibile prevăzute la Art. 2.1.3.4 lit. (i) pot fi utilizate în raport cu nivelurile de stabilitate la incendiu astfel:
+    - – minimum clasa de reacție la foc D-s2,d0 sau a căror finisaje îndeplinesc criteriile de performanță la foc minim K_2 10 (la niv. IV și/sau V de stabilitate la incendiu);
+    - – minimum clasa de reacție la foc C-s2,d0 sau a căror finisaje îndeplinesc criteriile de performanță la foc minim K_2 30 (la niv. III de stabilitate la incendiu);
+    - – minimum clasa de reacție la foc B-s1,d0 sau a căror finisaje îndeplinesc criteriile de performanță la foc minim K_2 60 (la niv. II de stabilitate la incendiu);
+    - – nu se admit (la niv. I de stabilitate la incendiu).

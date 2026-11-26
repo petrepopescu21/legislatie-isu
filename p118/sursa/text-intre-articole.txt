@@ -1,0 +1,688 @@
+0	REGLEMENTARE TEHNICĂ din 28 februarie 2025Normativ privind securitatea la incendiu a construcțiilor, indicativ P 118/1-2025 EMITENT MINISTERUL DEZVOLTĂRII, LUCRĂRILOR PUBLICE ȘI ADMINISTRAȚIEI
+0	Publicată în MONITORUL OFICIAL nr. 204 bis din 10 martie 2025
+0	Notă
+0	Aprobată prin ORDINUL nr. 267 din 28 februarie 2025, publicat în Monitorul Oficial al României, Partea I, nr. 204 din 10 martie 2025.
+0	CAPITOLUL 1
+0	1. PREVEDERI GENERALE
+0	SECȚIUNEA I
+0	- 1.1. Obiect, domeniu de aplicare
+0	SECȚIUNEA II
+0	- 1.2. Terminologie, clasificări
+0	CAPITOLUL 2
+0	2. PERFORMANȚE COMUNE CONSTRUCȚIILOR CU ORICE DESTINAȚIE (CIVILE, DE PRODUCȚIE ȘI/SAU DEPOZITARE)
+0	SECȚIUNEA I
+0	- 2.1. Condiții generale de performanță a construcțiilor
+0	- 2.1.1. Dispoziții generale
+0	- 2.1.2. Risc de incendiu
+0	- 2.1.3. Nivel de stabilitate la incendiu al construcției
+0	SECȚIUNEA II
+0	- 2.2. Amplasarea și conformarea construcțiilor
+0	- 2.2.1. Amplasare
+0	- 2.2.2. Conformare
+0	SECȚIUNEA III
+0	- 2.3. Limitarea propagării incendiilor
+0	- 2.3.1. Dispoziții generale
+0	- 2.3.2. Elemente antifoc pentru separarea compartimentelor de incendiu și protecția golurilor funcționale de trecere
+0	- 2.3.2.1. Pereți antifoc pentru separarea compartimentelor de incendiu
+0	- 2.3.2.2. Protecția golurilor funcționale din pereții rezistenți la foc care separă compartimente de incendiu
+0	- 2.3.2.2.1. Prevederi generale
+0	- 2.3.2.2.2. Uși, obloane, cortine
+0	- 2.3.2.2.3. Încăperi tampon
+0	- 2.3.2.2.4. Tamburi deschiși
+0	- 2.3.2.3. Planșee rezistente la foc pentru separarea compartimentelor de incendiu
+0	- 2.3.3. Elemente despărțitoare rezistente la foc din interiorul compartimentelor de incendiu și protecția golurilor funcționale din acestea
+0	- 2.3.3.1. Dispoziții generale
+0	- 2.3.3.2. Pereți rezistenți la foc din interiorul compartimentelor de incendiu
+0	- 2.3.3.3. Planșee rezistente la foc din interiorul compartimentelor de incendiu
+0	- 2.3.3.4. Protecția golurilor din pereții rezistenți la foc și planșeele rezistente la foc din interiorul compartimentelor de incendiu
+0	- 2.3.4. Elemente rezistente la foc și rezistente la explozie volumetrică și protecția golurilor funcționale din acestea
+0	- 2.3.4.1. Dispoziții generale
+0	- 2.3.4.2. Pereți rezistenți la foc și rezistenți la explozie volumetrică
+0	- 2.3.4.3. Protecția golurilor funcționale din pereții rezistenți la foc și rezistenți la explozie volumetrică
+0	- 2.3.4.4. Planșee rezistente la foc și rezistente la explozie volumetrică
+0	- 2.3.5. Elemente etanșe la foc
+0	- 2.3.6. Limitarea propagării incendiului pe fațadă și acoperiș
+0	- 2.3.6.1. Prevederi generale privind limitarea propagării pe fațadă
+0	- 2.3.6.2. Prevederi generale privind limitarea propagării focului pe acoperiș
+0	- 2.3.6.3. Limitarea dezvoltării efluenților incendiului (fum, gaze fierbinți)
+0	SECȚIUNEA IV
+0	- 2.4. Alcătuiri constructive
+0	- 2.4.1. Dispoziții generale
+0	- 2.4.2. Scări
+0	- 2.4.3. Circulații comune orizontale
+0	- 2.4.4. Ascensoare
+0	- 2.4.4.1. Dispoziții generale
+0	- 2.4.4.2. Ascensoare pentru circulația funcțională, de persoane, de marfă și alte sisteme de transport de materiale pe verticală
+0	- 2.4.4.3. Ascensoarele pentru transportul persoanelor cu dizabilități
+0	- 2.4.4.4. Ascensoare pentru intervenție în caz de incendiu (de pompieri)
+0	- 2.4.5. Plafoane autoportante sau suspendate și pardoseli supraînălțate
+0	- 2.4.6. Finisaje
+0	- 2.4.7. Dispoziții privind alcătuiri constructive specifice limitării propagării incendiului pe fațadă
+0	- 2.4.7.1. Pereți cortină
+0	- 2.4.7.2. Fațade ventilate
+0	- 2.4.7.3. Fațade duble - "double skin"
+0	- 2.4.8. Dispoziții privind alcătuiri constructive specifice limitării propagării incendiului pe acoperiș
+0	- 2.4.8.1. Acoperișuri fără pod
+0	- 2.4.8.2. Acoperișuri verzi
+0	- 2.4.9. Atriumuri
+0	- 2.4.10. Galerii, canale, estacade
+0	- 2.4.11. Ghene pentru instalații
+0	- 2.4.12. Coșuri de fum, sobe, hote
+0	- 2.4.13. Alcătuiri constructive specifice riscului de explozie volumetrică
+0	- 2.4.14. Încăperi și spații destinate instalațiilor aferente construcțiilor
+0	- 2.4.15. Camere de pubele, compactoare și crematorii pentru deșeuri
+0	- 2.4.16. Încăperi de depozitare
+0	- 2.4.17. Panouri publicitare amplasate pe fațadele clădirilor
+0	- 2.4.18. Instalații și echipamente utilizând surse regenerabile de energie
+0	- 2.4.19. Conformări, instalații și echipamente specifice camerelor pentru bateriile de acumulatoare
+0	SECȚIUNEA V
+0	- 2.5. Căi de evacuare a utilizatorilor în caz de incendiu
+0	- 2.5.1. Dispoziții generale
+0	- 2.5.2. Dispunere, alcătuire, finisaje
+0	- 2.5.3. Număr căi de evacuare
+0	- 2.5.4. Alcătuirea și separarea căilor de circulație funcțională și de evacuare
+0	- 2.5.5. Uși
+0	- 2.5.6. Scări
+0	- 2.5.6.1. Dispoziții generale
+0	- 2.5.6.2. Scări interioare închise
+0	- 2.5.6.3. Scări interioare deschise
+0	- 2.5.6.4. Scări exterioare deschise
+0	- 2.5.7. Terase circulabile, cursive, logii și curți interioare
+0	- 2.5.8. Dimensionarea căilor de evacuare
+0	- 2.5.9. Număr de utilizatori
+0	- 2.5.10. Număr normat de utilizatori (Uf) pentru unitățile de trecere (fluxurile) de evacuare
+0	- 2.5.11. Unități de trecere (fluxuri) de evacuare
+0	- 2.5.12. Determinarea numărului unităților de trecere (fluxurilor) de evacuare
+0	- 2.5.13. Determinarea numărului căilor de evacuare
+0	- 2.5.14. Lungimea căii de evacuare
+0	- 2.5.15. Gabaritele căilor de evacuare
+0	- 2.5.15.1. Lățimi normate ale căilor de evacuare
+0	- 2.5.15.2. Înălțimi de trecere pe căile de evacuare
+0	- 2.5.16. Marcarea căilor de evacuare
+0	SECȚIUNEA VI
+0	- 2.6. Condiții de acces, intervenție și salvare în caz de incendiu
+0	SECȚIUNEA VII
+0	- 2.7. Echiparea construcțiilor cu instalații și mijloace de stingere a incendiilor, serviciul pentru situații de urgență
+0	CAPITOLUL 3
+0	3. PERFORMANȚE SPECIFICE UNOR FUNCȚIUNI ALE CONSTRUCȚIILOR CIVILE SUPRATERANE CU ÎNĂLȚIMI OBIȘNUITE
+0	SECȚIUNEA I
+0	- 3.1. Dispoziții comune
+0	- 3.1.1. Condiții generale de performanță a construcțiilor (risc de incendiu, nivel de stabilitate la incendiu)
+0	- 3.1.2. Amplasarea și conformarea construcțiilor
+0	- 3.1.3. Limitarea propagării incendiilor
+0	- 3.1.4. Alcătuiri constructive
+0	- 3.1.5. Căi de evacuare a utilizatorilor în caz de incendiu
+0	- 3.1.6. Condiții de acces, intervenție și salvare în caz de incendiu
+0	- 3.1.7. Echiparea construcțiilor cu instalații și alte mijloace de stingere a incendiilor
+0	SECȚIUNEA II
+0	- 3.2. Performanțe specifice
+0	- 3.2.1. Clădiri de locuit supraterane
+0	- 3.2.2. Clădiri administrative supraterane
+0	- 3.2.3. Clădiri pentru comerț supraterane
+0	- 3.2.4. Clădiri pentru sănătate supraterane
+0	- 3.2.5. Clădiri pentru cultură supraterane
+0	- 3.2.6. Clădiri pentru învățământ supraterane
+0	- 3.2.7. Clădiri pentru turism supraterane
+0	- 3.2.8. Clădirile de cult supraterane
+0	- 3.2.9. Clădiri de sport supraterane
+0	- 3.2.10. Construcții civile supraterane, montane sau din Delta Dunării, amplasate izolat
+0	- 3.2.11. Parcaje pentru autoturisme
+0	SECȚIUNEA III
+0	- 3.3. Construcții și amenajări în aer liber cu destinații civile
+0	- 3.3.1. Dispoziții generale
+0	- 3.3.2. Stadioane, arene sportive
+0	- 3.3.3. Amenajări pentru spectacole în aer liber și corturi
+0	- 3.3.4. Campinguri
+0	CAPITOLUL 4
+0	4. PERFORMANȚE SPECIFICE CLĂDIRILOR CIVILE SUPRATERANE ÎNALTE, FOARTE ÎNALTE SAU CU SĂLI AGLOMERATE
+0	SECȚIUNEA I
+0	- 4.1. Clădiri civile supraterane înalte
+0	- 4.1.1. Condiții generale de performanță a construcțiilor (risc de incendiu, nivel de stabilitate la incendiu)
+0	- 4.1.2. Amplasarea și conformarea construcțiilor
+0	- 4.1.3. Limitarea propagării incendiilor
+0	- 4.1.4. Alcătuiri constructive ale elementelor de construcție
+0	- 4.1.5. Căi de evacuare a utilizatorilor în caz de incendiu
+0	- 4.1.6. Condiții de acces, intervenție și salvare în caz de incendiu
+0	- 4.1.7. Echiparea construcțiilor cu instalații și mijloace de stingere a incendiilor
+0	SECȚIUNEA II
+0	- 4.2. Clădiri civile supraterane foarte înalte
+0	- 4.2.1. Condiții comune de performanță a construcțiilor (risc de incendiu, nivel de stabilitate la incendiu al construcției)
+0	- 4.2.2. Amplasarea și conformarea construcțiilor
+0	- 4.2.3. Limitarea propagării incendiilor
+0	- 4.2.4. Alcătuiri constructive ale elementelor de construcție
+0	- 4.2.5. Căi de evacuare a utilizatorilor în caz de incendiu
+0	- 4.2.6. Condiții de acces, intervenție și salvare în caz de incendiu
+0	- 4.2.7. Echiparea construcțiilor cu instalații și mijloace de stingere a incendiilor
+0	SECȚIUNEA III
+0	- 4.3. Clădiri civile cu săli aglomerate
+0	- 4.3.1. Condiții comune de performanță a construcțiilor (risc de incendiu, nivel de stabilitate la incendiu al construcției)
+0	- 4.3.2. Amplasarea și conformarea clădirilor
+0	- 4.3.3. Limitarea propagării incendiilor
+0	- 4.3.4. Alcătuiri constructive
+0	- 4.3.4.1. Prevederi generale
+0	- 4.3.4.2. Dispoziții specifice
+0	- 4.3.5. Căi de evacuare a utilizatorilor în caz de incendiu
+0	- 4.3.6. Condiții de acces, intervenție și salvare în caz de incendiu
+0	- 4.3.7. Echiparea construcțiilor cu instalații și mijloace de stingere a incendiilor
+0	CAPITOLUL 5
+0	5. PERFORMANȚE SPECIFICE CLĂDIRILOR CIVILE SUBTERANE ȘI PORȚIUNILOR SUBTERANE (SUBSOLURILOR) ALE CLĂDIRILOR CIVILE (PUBLICE) SUPRATERANE
+0	- 5.1. Condiții comune de performanță a construcțiilor (risc de incendiu și nivel de stabilitate la incendiu al construcției)
+0	- 5.2. Amplasarea și conformarea construcțiilor
+0	- 5.3. Limitarea propagării incendiilor
+0	- 5.4. Alcătuiri constructive
+0	- 5.5. Căi de evacuare a utilizatorilor în caz de incendiu
+0	- 5.6. Condiții de acces, intervenție și salvare în caz de incendiu
+0	- 5.7. Echiparea construcțiilor cu instalații și mijloace de stingere a incendiilor
+0	CAPITOLUL 6
+0	6. PERFORMANȚE SPECIFICE CONSTRUCȚIILOR DE PRODUCȚIE ȘI/SAU DEPOZITARE
+0	SECȚIUNEA I
+0	- 6.1. Performanțe comune construcțiilor de producție și/sau depozitare
+0	- 6.1.1. Condiții generale de performanță a construcțiilor (risc de incendiu, nivel de stabilitate la incendiu al construcției)
+0	- 6.1.2. Amplasarea și conformarea construcțiilor
+0	- 6.1.3. Limitarea propagării incendiilor
+0	- 6.1.4. Alcătuiri constructive
+0	- 6.1.5. Căi de evacuare a utilizatorilor în caz de incendiu
+0	- 6.1.6. Condiții de acces, intervenție și salvare în caz de incendiu
+0	- 6.1.7. Echiparea construcțiilor cu instalații și mijloace de stingere a incendiilor
+0	SECȚIUNEA II
+0	- 6.2. Performanțe specifice construcțiilor de producție și depozitare
+0	- 6.2.1. Construcții de producție și depozitare de tip obișnuit
+0	- 6.2.2. Construcții de producție și depozitare de tip special
+0	SECȚIUNEA III
+0	- 6.3. Performanțe specifice construcțiilor de depozitare a materialelor și substanțelor
+0	- 6.3.1. Prevederi comune
+0	- 6.3.2. Depozite închise de materiale și substanțe combustibile
+0	SECȚIUNEA IV
+0	- 6.4. Performanțe specifice depozitelor supraterane deschise de materiale și substanțe combustibile
+0	CAPITOLUL 7
+0	7. PERFORMANȚE ALE CONSTRUCȚIILOR CU FUNCȚIUNI MIXTE
+0	- 7.1. Condiții comune de performanță a construcțiilor (risc de incendiu, nivel de stabilitate la incendiu al construcției)
+0	- 7.2. Amplasarea și conformarea construcțiilor
+0	- 7.3. Limitarea propagării incendiilor
+0	- 7.4. Alcătuiri constructive
+0	- 7.5. Căi de evacuare a utilizatorilor în caz de incendiu
+0	- 7.6. Condiții de acces, intervenție și salvare în caz de incendiu
+0	- 7.7. Echiparea construcțiilor cu instalații și mijloace de stingere a incendiilor
+0	CAPITOLUL 8
+0	SISTEME DE CONTROL AL FUMULUI ȘI A GAZELOR FIERBINȚI ÎN CAZ DE INCENDIU
+0	8.1. Dispoziții generale
+0	8.2. Evacuarea fumului prin tiraj natural - organizat
+0	8.3. Evacuarea fumului prin ventilare mecanică
+0	8.4. Tubulaturi de evacuare a fumului și de admisie a aerului, ghene, ventilatoare
+0	8.5. Case de scări închise și circulații comune orizontale închise
+0	8.6. Atriumuri
+0	8.7. Metoda simplificată de calcul pentru evacuarea fumului și a gazelor fierbinți în caz de incendiu
+0	CAPITOLUL 9
+0	INTERVENȚII LA CONSTRUCȚII EXISTENTE CARE CONSTITUIE FOND CONSTRUIT ANTERIOR DATEI INTRĂRII ÎN VIGOARE A PREZENTULUI NORMATIV
+0	ANEXA 1 - AMPLASARE CONSTRUCȚII
+0	ANEXA 2 - PEREȚI ANTIFOC ȘI PEREȚI DE SECTORIZARE
+0	ANEXA 2.1 - PEREȚI ANTIFOC ȘI PROTECȚIA GOLURILOR FUNCȚIONALE DIN PEREȚII ANTIFOC
+0	Pereți antifoc
+0	Protecția golurilor funcționale prevăzute în pereții antifoc
+0	ANEXA 2.2 - PEREȚI ANTIFOC ȘI PEREȚI REZISTENȚI LA FOC LA HALE
+0	ANEXA 2.3 - PEREȚI DE SECTORIZARE CU ROL DE LIMITARE A PROPAGĂRII FOCULUI (DE PROTECȚIE CONTRA INCENDIILOR CARE LIMITEAZĂ PROPAGAREA ÎN INTERIORUL COMPARTIMENTELOR DE INCENDIU)
+0	ANEXA 2.4 - PEREȚI ANTIFOC ȘI PEREȚI DE SECTORIZARE
+0	ANEXA 3 - LIMITAREA PROPAGĂRII INCENDIILOR PE FAȚADĂ
+0	ANEXA 3.1 - PREVEDERI GENERALE
+0	ANEXA 3.2 - REGULA H + L
+0	Definirea indicilor H și L (definire)
+0	Soluții constructive cu H + L
+0	Exemple de măsurători H și L - general
+0	Ferestre și uși de balcoane/terasă
+0	Tipuri de balcoane
+0	Exemple de limitare a propagării incendiului pe fațadă
+0	ANEXA 3.3 - FÂȘII (BENZI) PENTRU SISTEME COMPOZITE DE IZOLARE TERMICĂ - PRINCIPII DE REALIZARE BORDĂRI ȘI FÂȘII (BENZI) PENTRU TERMOIZOLANȚIE ȘI/SAU SISTEME COMPOZITE DE IZOLARE TERMICĂ EXTERIOARĂ A PEREȚILOR PERIMETRALI, DIFERITE DE A1 sau A2-s1,d0
+0	ANEXA 4 - ALCĂTUIRI CONSTRUCTIVE
+0	ANEXA 4.1 - ASCENSOARE
+0	Ascensoare - Generalități
+0	Ascensoare pentru evacuarea persoanelor cu dizabilități și ascensoare pentru intervenție
+0	Ascensoare prevăzute pentru transportul persoanelor cu căruciorul sau a persoanelor cu dizabilități care pot fi utilizate și pentru evacuarea asistată a acestora în caz de incendiu
+0	Ascensoare prevăzute pentru transportul bolnavilor cu patul cu rotile, cu targa sau cu căruciorul sau a persoanelor cu dizabilități care pot fi utilizate și pentru evacuarea asistată a acestora în caz de incendiu
+0	Ascensoare pentru intervenție
+0	Prevederi generale
+0	Puț protejat de acces și intervenție a pompierilor
+0	ANEXA 4.2 - ATRIUMURI
+0	Generalități atriumuri
+0	Tipuri de atrium
+0	Amplasare atrium
+0	Circulații comune orizontale deschise spre atrium
+0	ANEXA 4.3 - ALCĂTUIRI CONSTRUCTIVE SPECIFICE RISCULUI DE EXPLOZIE VOLUMETRICĂ
+0	Încăperi și spații cu pericol de explozie
+0	Terminologie:
+0	Încăperi și spații cu pericol de explozie
+0	Măsuri constructive la spații cu pericol de explozie "Prevederi împotriva pericolelor de explozie" pentru baterii staționare
+0	ANEXA 4.4 - ÎNCĂPERI ȘI SPAȚII DESTINATE INSTALAȚIILOR AFERENTE CONSTRUCȚIILOR (Stații de pompare)
+0	ANEXA 4.5 - ÎNCĂPERI DE DEPOZITARE
+0	ANEXA 4.6 - INSTALAȚII ȘI ECHIPAMENTE SPECIFICE ENERGIEI REGENERABILE
+0	ANEXA 4.7 - AGENȚI FRIGORIFICI
+0	ANEXA 5 - CĂI DE EVACUARE A UTILIZATORILOR ÎN CAZ DE INCENDIU
+0	ANEXA 5.1 - UȘI
+0	Generalități
+0	Uși cu deschidere normală pe balamale sau pivoți, utilizate pe căile de evacuare
+0	Uși echipate cu sisteme de încuiere și dispozitive de ieșire (uși antipanică conform SR EN 1125 sau uși de ieșire de urgență conform SR EN 179)
+0	Uși cu dispozitive de ieșire împotriva panicii - "uși antipanică"
+0	Uși cu dispozitive de ieșire de urgență - "uși pentru ieșire de urgență"
+0	Uși cu sisteme de evacuare acționate/controlate electric (pentru utilizarea pe căile de evacuare)
+0	Uși culisante prevăzute și cu deschidere pe balamale
+0	Caz special: uși de evacuare pe balamale sau pivoți care pot fi menținute deschise de dispozitivul electromagnetic sau electromecanic în timpul funcționării normale
+0	ANEXA 5.2 - CIRCULAȚII COMUNE VERTICALE (SCĂRI)
+0	Scări cu rampe drepte
+0	Scări cu rampe încrucișate
+0	Scări cu rampe elicoidale
+0	Scări cu trepte balansate
+0	Conformare scări
+0	Scări exterioare
+0	ANEXA 5.3 - CORIDOARE
+0	Generalități
+0	Spațiu de circulație și evacuare (Cale de evacuare)
+0	Coridor înfundat
+0	ANEXA 5.4 - EVACUARE
+0	Generalități
+0	Lungimea căii de evacuare
+0	Coridoare Open space
+0	Caz particular - coridoare cu evacuare în "Y"
+0	Lungimea căii de evacuare
+0	Evacuare la clădiri existente
+0	Lungimea de evacuare
+0	ANEXA 5.5 - CERINȚE SPECIALE PENTRU EVACUAREA PERSOANELOR CU DIZABILITĂȚI
+0	Terminologie
+0	Prevederi generale
+0	Cerințe generale a punctelor de staționare a persoanelor cu dizabilități
+0	Cerințe speciale pentru evacuarea persoanelor cu dizabilități a punctelor de staționare
+0	Cerințe suplimentare ale punctelor de staționare a persoanelor cu dizabilități
+0	Zona de refugiu - caz general
+0	Ascensoare prevăzute pentru persoane cu dizabilități
+0	ANEXA 6 - CĂI DE ACCES, INTERVENȚIE ȘI SALVARE îN CAZ DE INCENDIU
+0	ANEXA 6.1 - CĂI DE CIRCULAȚIE
+0	ANEXA 6.2 - PERIMETRUL PEREȚILOR EXTERIORI
+0	ANEXA 7 - PERFORMANȚE SPECIFICE UNOR FUNCȚIUNI ALE CONSTRUCȚIILOR
+0	ANEXA 7.1 - CLĂDIRI CIVILE CU ÎNĂLȚIMI OBIȘNUITE - CLĂDIRI PENTRU SĂNĂTATE
+0	Generalități (la funcțiuni sanitare: spitale, policlinici, dispensare, creșe, case de copii, cămine de bătrâni și persoane cu dizabilități, sanatorii etc.)
+0	Funcțiune sanitară - circulații orizontale și verticale
+0	Zona de refugiu în clădiri de sănătate
+0	Prevederi generale
+0	"Zona de refugiu" situată în același compartiment de incendiu
+0	"Zona de refugiu" situată în interiorul unui alt compartiment de incendiu
+0	ANEXA 7.2 - PARCAJE
+0	Parcaj deschis (suprateran)
+0	Stații de încărcare mașini electrice
+0	ANEXA 7.3 - ARENE ȘI STADIOANE
+0	ANEXA 7.4 - CLĂDIRI CIVILE ÎNALTE, FOARTE ÎNALTE SAU CU SĂLI AGLOMERATE
+0	Clădiri înalte și foarte înalte
+0	Clădiri cu săli aglomerate (lungimi de evacuare la sălile aglomerate)
+0	ANEXA 7.5 - CONSTRUCȚII CU FUNCȚIUNI MIXTE
+0	ANEXA 7.6 - CONSTRUCȚII DE PRODUCȚIE ȘI/SAU DEPOZITARE
+0	Amplasare
+0	Lungimi de evacuare la clădiri de producție și/sau depozitare
+0	Scări de evacuare închise din construcții de producție și/sau depozitare
+0	Goluri de acces la scări de evacuare închise din construcțiile de producție și/sau depozitare
+0	Circulații comune orizontale din construcții de producție și/sau depozitare
+0	Goluri de acces la circulații comune orizontale din construcții de producție și/sau depozitare
+0	Goluri de acces la ascensoare de persoane, de marfă sau la alte mijloace mecanice de transport pe verticală din construcții de producție și/sau depozitare
+0	Evacuarea fumului și a gazelor fierbinți din construcții de producție și/sau depozitare
+0	Cerințe suplimentare la construcții de producție și/sau depozitare
+0	ANEXA 7.7 - SPAȚII DE TIP OPEN-SPACE
+0	ANEXA 8 - CARACTERISTICILE SUBSTANȚELOR ȘI MATERIALELOR CE DETERMINĂ ÎNCADRAREA ÎN RISCURI DE INCENDIU A SPAȚIILOR, ÎNCĂPERILOR, COMPARTIMENTELOR DE INCENDIU ȘI CONSTRUCȚIILOR DE PRODUCȚIE ȘI/SAU DEPOZITARE
+0	ANEXA 8.1 - ÎNCADRAREA ÎN RISCURI DE INCENDIU A SPAȚIILOR, ÎNCĂPERILOR, COMPARTIMENTELOR DE INCENDIU ȘI CONSTRUCȚIILOR DE PRODUCȚIE ȘI/SAU DEPOZITARE CONFORM DENSITĂȚII SARCINII TERMICE
+0	Clasificare suplimentară a materialelor/produselor și substanțelor depozitate după clasa de periculozitate (recomandare)
+0	ANEXA 8.2 - CATEGORII DE LICHIDE INFLAMABILE - ÎN CONFORMITATE CU REGULAMENTULUI (CE) NR. 1272/2008 AL PARLAMENTULUI EUROPEAN ȘI AL CONSILIULUI DIN 16 DECEMBRIE 2008
+0	Prevederi generale privind clasificarea lichidelor inflamabile
+0	Considerații suplimentare privind clasificarea lichidelor inflamabile
+0	Categorii de depozite de lichide inflamabile
+0	ANEXA 9 - PUTERI CALORIFICE
+0	ANEXA 9.1 - PUTERI CALORIFICE PENTRU MATERIALE UZUALE
+0	ANEXA 9.2 - PUTERI CALORIFICE PENTRU CABLURI
+0	ANEXA 10 - CONSTRUCȚII EXISTENTE
+0	SECȚIUNEA I
+0	PREVEDERI COMUNE TUTUROR CONSTRUCȚIILOR EXISTENTE
+0	CAPITOLUL 1
+0	GENERALITĂȚI
+0	A.10.1.1. SCOP - DOMENIU DE APLICARE
+0	A.10.1.2. TERMINOLOGIE, CLASIFICĂRI
+0	CAPITOLUL 2
+0	CONDIȚII GENERALE DE PERFORMANȚĂ A CONSTRUCȚIILOR EXISTENTE
+0	A.10.2.1. RISC DE INCENDIU ȘI NIVEL DE STABILITATE LA INCENDIU
+0	Risc de incendiu
+0	Nivel de stabilitate la incendiu
+0	A.10.2.2. AMPLASAREA CONSTRUCȚIILOR ȘI CONFORMAREA LOR LA FOC
+0	Amplasare
+0	Conformare la foc
+0	A.10.2.3. LIMITAREA PROPAGĂRII INCENDIILOR
+0	Dispoziții generale
+0	Elemente rezistente la foc pentru separarea compartimentelor de incendiu (antifoc) existente și protecția golurilor funcționale de trecere
+0	Pereți antifoc
+0	Protecția golurilor din pereți antifoc
+0	Uși, obloane, cortine antifoc
+0	Încăperi tampon antifoc
+0	Tamburi deschiși antifoc
+0	Planșee antifoc
+0	Elemente rezistente la foc și protecția golurilor
+0	Pereți și protecția golurilor
+0	Planșee și protecția golurilor
+0	Elemente rezistente la explozie și protecția golurilor
+0	Spații cu pericol de explozie categoria A (BE3a) și B (BE3b) de pericol de incendiu
+0	Elemente etanșe la foc
+0	A.10.2.4. ALCĂTUIRI CONSTRUCTIVE
+0	Dispoziții generale
+0	Plafoane suspendate sau autoportante
+0	Galerii, canale
+0	Coșuri, tuburi
+0	Ascensoare
+0	Finisaje
+0	Pereți cortină și fațade vitrate
+0	Casa scării
+0	Atrium
+0	Încăperi de depozitare
+0	Încăperi pentru instalații aferente construcțiilor
+0	A.10.2.5. CĂI DE EVACUARE ÎN CAZ DE INCENDIU
+0	Dispoziții generale
+0	Număr căi de evacuare
+0	Alcătuirea căilor de evacuare
+0	Uși
+0	Scări interioare
+0	Scări exterioare deschise
+0	Terase și curți interioare
+0	Dimensionarea căilor de evacuare
+0	Criterii de calcul
+0	Determinarea fluxurilor de evacuare
+0	Gabaritele căilor de evacuare
+0	Lungimea căii de evacuare
+0	Marcarea căilor de evacuare
+0	A.10.2.6. INSTALAȚII AFERENTE CONSTRUCȚIILOR EXISTENTE
+0	A.10.2.7. CĂI DE ACCES, INTERVENȚIE ȘI SALVARE
+0	A.10.2.8. DOTAREA CU MIJLOACE DE INTERVENȚIE ȘI SERVICIUL PRIVAT PENTRU SITUAȚII DE URGENȚĂ
+0	SECȚIUNEA A II-A
+0	CLĂDIRI CIVILE (PUBLICE) EXISTENTE
+0	CAPITOLUL 3
+0	PERFORMANȚE COMUNE CLĂDIRILOR CIVILE (PUBLICE) EXISTENTE
+0	A.10.3.1. RISC DE INCENDIU ȘI NIVEL DE STABILITATE LA INCENDIU
+0	Riscuri de incendiu
+0	Nivel de stabilitate la incendiu
+0	A.10.3.2. AMPLASARE ȘI CONFORMARE LA FOC
+0	Amplasare
+0	Conformare la foc
+0	A.10.3.3. ALCĂTUIRI CONSTRUCTIVE
+0	A.10.3.4. LIMITAREA PROPAGĂRII FOCULUI ȘI A FUMULUI
+0	A.10.3.5. CĂI DE EVACUARE ÎN CAZ DE INCENDIU
+0	A.10.3.6. INSTALAȚII AFERENTE CLĂDIRILOR CIVILE (PUBLICE) EXISTENTE
+0	A.10.3.7. CĂI DE ACCES, INTERVENȚIE ȘI SALVARE
+0	A.10.3.8. DOTAREA CU MIJLOACE DE INTERVENȚIE, SERVICIUL PRIVAT PENTRU SITUAȚII DE URGENȚĂ
+0	A.10.3.9. EVACUARE FUM (DESFUMARE) ȘI GAZE FIERBINȚI
+0	A.10.3.10. PERFORMANȚE ALE UNOR FUNCȚIUNI (DESTINAȚII)
+0	Clădiri existente de locuit
+0	Clădiri administrative existente
+0	Clădiri existente pentru comerț
+0	Clădiri existente pentru sănătate
+0	Clădiri existente pentru cultură
+0	Clădiri existente de învățământ
+0	Clădiri existente pentru turism
+0	Clădiri existente de cult
+0	Clădiri existente de sport
+0	A.10.3.11. PERFORMANȚE PROPRII UNOR AMENAJĂRI ȘI CLĂDIRI EXISTENTE
+0	Amenajări în aer liber
+0	Campinguri, sate de vacanță existente
+0	Clădiri montane existente
+0	Parcaje pentru autoturisme
+0	CAPITOLUL 4
+0	PERFORMANȚE SPECIFICE CLĂDIRILOR CIVILE (PUBLICE) EXISTENTE PERFORMANȚE ALE UNOR TIPURI DE CLĂDIRI CIVILE (PUBLICE) EXISTENTE
+0	A.10.4.1. PERFORMANȚE ALE UNOR TIPURI DE CLĂDIRI CIVILE (PUBLICE) EXISTENTE
+0	Clădiri existente înalte și foarte înalte
+0	Clădiri existente cu săli aglomerate
+0	Clădiri existente subterane
+0	SECȚIUNEA III
+0	CONSTRUCȚII DE PRODUCȚIE ȘI/SAU DEPOZITARE
+0	CAPITOLUL 5
+0	PERFORMANȚE COMUNE CONSTRUCȚIILOR DE PRODUCȚIE ȘI/SAU DEPOZITARE
+0	A.10.5.1. RISC DE INCENDIU (CATEGORII DE PERICOL DE INCENDIU) ȘI NIVEL DE STABILITATE LA INCENDIU
+0	Categorii de pericol de incendiu
+0	Nivel de stabilitate la incendiu
+0	A.10.5.2. AMPLASAREA ȘI CONFORMAREA LA FOC
+0	Amplasare
+0	Conformare la foc
+0	A.10.5.3. ALCĂTUIRI CONSTRUCTIVE
+0	A.10.5.4. LIMITAREA PROPAGĂRII FOCULUI ȘI A FUMULUI
+0	A.10.5.5. EVACUARE FUM (DESFUMARE)
+0	A.10.5.6. CĂI DE EVACUARE ÎN CAZ DE INCENDIU
+0	A.10.5.7. INSTALAȚII DE SEMNALIZARE ȘI STINGERE A INCENDIILOR
+0	A.10.5.8. INSTALAȚII AFERENTE CONSTRUCȚIILOR EXISTENTE
+0	A.10.5.9. CĂI DE ACCES, INTERVENȚIE ȘI SALVARE
+0	A.10.5.10. DOTAREA CU MIJLOACE TEHNICE DE STINGERE A INCENDIILOR ȘI SERVICIUL PRIVAT PENTRU SITUAȚII DE URGENȚĂ
+0	CAPITOLUL 6
+0	PERFORMANȚE SPECIFICE CONSTRUCȚIILOR DE PRODUCȚIE ȘI/SAU DEPOZITARE
+0	A.10.6.1. PERFORMANȚE ALE TIPURILOR DE CONSTRUCȚII DE PRODUCȚIE ȘI/SAU DEPOZITARE
+0	Construcții existente de tip obișnuit
+0	Construcții existente monobloc
+0	Construcții existente blindate
+0	A.10.6.2. PERFORMANȚE ALE CONSTRUCȚIILOR EXISTENTE DE DEPOZITARE
+0	Prevederi comune
+0	Depozite existente închise
+0	Depozite deschise existente
+0	SECȚIUNEA IV
+0	CONSTRUCȚII EXISTENTE CU FUNCȚIUNI MIXTE
+0	CAPITOLUL 7
+0	PERFORMANȚE COMUNE CONSTRUCȚIILOR EXISTENTE CU FUNCȚIUNI MIXTE
+0	A.10.7.1. RISC ȘI CATEGORIE DE PERICOL DE INCENDIU, NIVEL DE STABILITATE LA INCENDIU
+0	Risc și categorie de pericol de incendiu
+0	Nivel de stabilitate la incendiu
+0	A.10.7.2. AMPLASARE ȘI CONFORMARE LA FOC
+0	Amplasare
+0	Conformare la foc
+0	A.10.7.3. ALCĂTUIRI CONSTRUCTIVE
+0	A.10.7.4. LIMITAREA PROPAGĂRII FOCULUI ȘI A FUMULUI
+0	A.10.7.5. EVACUARE FUM (DESFUMARE)
+0	A.10.7.6. CĂI DE EVACUARE ÎN CAZ DE INCENDIU
+0	A.10.7.7. INSTALAȚII DE SEMNALIZARE ȘI STINGERE A INCENDIILOR
+0	A.10.7.8. INSTALAȚII AFERENTE CONSTRUCȚIILOR
+0	A.10.7.9. CĂI DE ACCES, INTERVENȚIE ȘI SALVARE
+0	A.10.7.10. DOTAREA CU MIJLOACE DE INTERVENȚIE ȘI SERVICIUL DE POMPIERI
+0	CAPITOLUL 8
+0	PERFORMANȚE SPECIFICE CONSTRUCȚIILOR EXISTENTE CU FUNCȚIUNI MIXTE
+0	A.10.8.1. PERFORMANȚE ALE TIPURILOR DE CONSTRUCȚII CU FUNCȚIUNI MIXTE
+0	Construcții existente de tip obișnuit
+0	Construcții existente înalte, foarte înalte, cu săli aglomerate, monobloc sau blindate
+0	A.10.8.2. PERFORMANȚE ALE UNOR DESTINAȚII DIN CONSTRUCȚIILE EXISTENTE CU FUNCȚIUNI MIXTE
+0	Funcțiuni mixte civile (publice)
+0	Funcțiuni existente mixte civile (publice) și unele activități de producție și/sau depozitare existente
+0	Funcțiuni existente mixte de producție și/sau depozitare
+0	SECȚIUNEA V
+0	EVACUARE FUM (DESFUMARE) ȘI GAZE FIERBINȚI
+0	CAPITOLUL 9
+0	EVACUARE FUM ȘI GAZE FIERBINȚI
+0	Dispoziții generale
+0	Evacuarea fumului (desfumare)
+0	Desfumare prin tiraj natural-organizat
+0	Desfumarea mecanică
+0	Condiții specifice de desfumare
+0	Case de scări închise
+0	Circulațiile comune orizontale închise
+0	Evacuarea fumului și a gazelor fierbinți
+0	ANEXA 11 - SISTEME DE EVACUARE A FUMULUI ȘI A GAZELOR FIERBINȚI REFERINȚE LEGISLATIVE ȘI TEHNICE CARE AU FOST LUATE ÎN CONSIDERARE LA ELABORAREA NORMATIVULUI
+0	Listă tabele:
+0	Listă figuri:
+0	1. PREVEDERI GENERALE
+0	- 1.1. Obiect, domeniu de aplicare
+13	- 1.2. Terminologie, clasificări
+14	2. PERFORMANȚE COMUNE CONSTRUCȚIILOR CU ORICE DESTINAȚIE (CIVILE, DE PRODUCȚIE ȘI/SAU DEPOZITARE)
+14	- 2.1. Condiții generale de performanță a construcțiilor
+14	- 2.1.1. Dispoziții generale
+17	- 2.1.2. Risc de incendiu
+23	- 2.1.3. Nivel de stabilitate la incendiu al construcției
+30	- 2.2. Amplasarea și conformarea construcțiilor
+31	- 2.2.1. Amplasare
+33	- 2.2.2. Conformare
+37	- 2.3. Limitarea propagării incendiilor
+37	- 2.3.1. Dispoziții generale
+41	- 2.3.2. Elemente antifoc pentru separarea compartimentelor de incendiu și protecția golurilor funcționale de trecere
+41	- 2.3.2.1. Pereți antifoc pentru separarea compartimentelor de incendiu
+53	- 2.3.2.2. Protecția golurilor funcționale din pereții rezistenți la foc care separă compartimente de incendiu
+53	- 2.3.2.2.1. Prevederi generale
+54	- 2.3.2.2.2. Uși, obloane, cortine
+55	- 2.3.2.2.3. Încăperi tampon
+56	- 2.3.2.2.4. Tamburi deschiși
+57	- 2.3.2.3. Planșee rezistente la foc pentru separarea compartimentelor de incendiu
+60	- 2.3.3. Elemente despărțitoare rezistente la foc din interiorul compartimentelor de incendiu și protecția golurilor funcționale din acestea
+60	- 2.3.3.1. Dispoziții generale
+62	- 2.3.3.2. Pereți rezistenți la foc din interiorul compartimentelor de incendiu
+64	- 2.3.3.3. Planșee rezistente la foc din interiorul compartimentelor de incendiu
+65	- 2.3.3.4. Protecția golurilor din pereții rezistenți la foc și planșeele rezistente la foc din interiorul compartimentelor de incendiu
+68	- 2.3.4. Elemente rezistente la foc și rezistente la explozie volumetrică și protecția golurilor funcționale din acestea
+68	- 2.3.4.1. Dispoziții generale
+73	- 2.3.4.2. Pereți rezistenți la foc și rezistenți la explozie volumetrică
+75	- 2.3.4.3. Protecția golurilor funcționale din pereții rezistenți la foc și rezistenți la explozie volumetrică
+76	- 2.3.4.4. Planșee rezistente la foc și rezistente la explozie volumetrică
+78	- 2.3.5. Elemente etanșe la foc
+79	- 2.3.6. Limitarea propagării incendiului pe fațadă și acoperiș
+79	- 2.3.6.1. Prevederi generale privind limitarea propagării pe fațadă
+90	- 2.3.6.2. Prevederi generale privind limitarea propagării focului pe acoperiș
+91	- 2.3.6.3. Limitarea dezvoltării efluenților incendiului (fum, gaze fierbinți)
+92	- 2.4. Alcătuiri constructive
+92	- 2.4.1. Dispoziții generale
+94	- 2.4.2. Scări
+102	- 2.4.3. Circulații comune orizontale
+106	- 2.4.4. Ascensoare
+106	- 2.4.4.1. Dispoziții generale
+110	- 2.4.4.2. Ascensoare pentru circulația funcțională, de persoane, de marfă și alte sisteme de transport de materiale pe verticală
+115	- 2.4.4.3. Ascensoarele pentru transportul persoanelor cu dizabilități
+118	- 2.4.4.4. Ascensoare pentru intervenție în caz de incendiu (de pompieri)
+120	- 2.4.5. Plafoane autoportante sau suspendate și pardoseli supraînălțate
+124	- 2.4.6. Finisaje
+129	- 2.4.7. Dispoziții privind alcătuiri constructive specifice limitării propagării incendiului pe fațadă
+129	- 2.4.7.1. Pereți cortină
+133	- 2.4.7.2. Fațade ventilate
+136	- 2.4.7.3. Fațade duble - "double skin"
+140	- 2.4.8. Dispoziții privind alcătuiri constructive specifice limitării propagării incendiului pe acoperiș
+140	- 2.4.8.1. Acoperișuri fără pod
+141	- 2.4.8.2. Acoperișuri verzi
+143	- 2.4.9. Atriumuri
+154	- 2.4.10. Galerii, canale, estacade
+155	- 2.4.11. Ghene pentru instalații
+157	- 2.4.12. Coșuri de fum, sobe, hote
+159	- 2.4.13. Alcătuiri constructive specifice riscului de explozie volumetrică
+169	- 2.4.14. Încăperi și spații destinate instalațiilor aferente construcțiilor
+173	- 2.4.15. Camere de pubele, compactoare și crematorii pentru deșeuri
+175	- 2.4.16. Încăperi de depozitare
+184	- 2.4.17. Panouri publicitare amplasate pe fațadele clădirilor
+185	- 2.4.18. Instalații și echipamente utilizând surse regenerabile de energie
+195	- 2.4.19. Conformări, instalații și echipamente specifice camerelor pentru bateriile de acumulatoare
+202	- 2.5. Căi de evacuare a utilizatorilor în caz de incendiu
+202	- 2.5.1. Dispoziții generale
+208	- 2.5.2. Dispunere, alcătuire, finisaje
+211	- 2.5.3. Număr căi de evacuare
+212	- 2.5.4. Alcătuirea și separarea căilor de circulație funcțională și de evacuare
+213	- 2.5.5. Uși
+220	- 2.5.6. Scări
+220	- 2.5.6.1. Dispoziții generale
+228	- 2.5.6.2. Scări interioare închise
+234	- 2.5.6.3. Scări interioare deschise
+238	- 2.5.6.4. Scări exterioare deschise
+240	- 2.5.7. Terase circulabile, cursive, logii și curți interioare
+242	- 2.5.8. Dimensionarea căilor de evacuare
+247	- 2.5.9. Număr de utilizatori
+249	- 2.5.10. Număr normat de utilizatori (Uf) pentru unitățile de trecere (fluxurile) de evacuare
+250	- 2.5.11. Unități de trecere (fluxuri) de evacuare
+251	- 2.5.12. Determinarea numărului unităților de trecere (fluxurilor) de evacuare
+253	- 2.5.13. Determinarea numărului căilor de evacuare
+254	- 2.5.14. Lungimea căii de evacuare
+258	- 2.5.15. Gabaritele căilor de evacuare
+258	- 2.5.15.1. Lățimi normate ale căilor de evacuare
+260	- 2.5.15.2. Înălțimi de trecere pe căile de evacuare
+261	- 2.5.16. Marcarea căilor de evacuare
+262	- 2.6. Condiții de acces, intervenție și salvare în caz de incendiu
+270	- 2.7. Echiparea construcțiilor cu instalații și mijloace de stingere a incendiilor, serviciul pentru situații de urgență
+273	3. PERFORMANȚE SPECIFICE UNOR FUNCȚIUNI ALE CONSTRUCȚIILOR CIVILE SUPRATERANE CU ÎNĂLȚIMI OBIȘNUITE
+273	- 3.1. Dispoziții comune
+273	- 3.1.1. Condiții generale de performanță a construcțiilor (risc de incendiu, nivel de stabilitate la incendiu)
+274	- 3.1.2. Amplasarea și conformarea construcțiilor
+283	- 3.1.3. Limitarea propagării incendiilor
+290	- 3.1.4. Alcătuiri constructive
+302	- 3.1.5. Căi de evacuare a utilizatorilor în caz de incendiu
+308	- 3.1.6. Condiții de acces, intervenție și salvare în caz de incendiu
+309	- 3.1.7. Echiparea construcțiilor cu instalații și alte mijloace de stingere a incendiilor
+311	- 3.2. Performanțe specifice
+311	- 3.2.1. Clădiri de locuit supraterane
+324	- 3.2.2. Clădiri administrative supraterane
+334	- 3.2.3. Clădiri pentru comerț supraterane
+354	- 3.2.4. Clădiri pentru sănătate supraterane
+365	- 3.2.5. Clădiri pentru cultură supraterane
+374	- 3.2.6. Clădiri pentru învățământ supraterane
+386	- 3.2.7. Clădiri pentru turism supraterane
+394	- 3.2.8. Clădirile de cult supraterane
+402	- 3.2.9. Clădiri de sport supraterane
+409	- 3.2.10. Construcții civile supraterane, montane sau din Delta Dunării, amplasate izolat
+420	- 3.2.11. Parcaje pentru autoturisme
+448	- 3.3. Construcții și amenajări în aer liber cu destinații civile
+448	- 3.3.1. Dispoziții generale
+450	- 3.3.2. Stadioane, arene sportive
+465	- 3.3.3. Amenajări pentru spectacole în aer liber și corturi
+473	- 3.3.4. Campinguri
+481	4. PERFORMANȚE SPECIFICE CLĂDIRILOR CIVILE SUPRATERANE ÎNALTE, FOARTE ÎNALTE SAU CU SĂLI AGLOMERATE
+481	- 4.1. Clădiri civile supraterane înalte
+481	- 4.1.1. Condiții generale de performanță a construcțiilor (risc de incendiu, nivel de stabilitate la incendiu)
+482	- 4.1.2. Amplasarea și conformarea construcțiilor
+484	- 4.1.3. Limitarea propagării incendiilor
+490	- 4.1.4. Alcătuiri constructive ale elementelor de construcție
+505	- 4.1.5. Căi de evacuare a utilizatorilor în caz de incendiu
+517	- 4.1.6. Condiții de acces, intervenție și salvare în caz de incendiu
+518	- 4.1.7. Echiparea construcțiilor cu instalații și mijloace de stingere a incendiilor
+519	- 4.2. Clădiri civile supraterane foarte înalte
+519	- 4.2.1. Condiții comune de performanță a construcțiilor (risc de incendiu, nivel de stabilitate la incendiu al construcției)
+520	- 4.2.2. Amplasarea și conformarea construcțiilor
+522	- 4.2.3. Limitarea propagării incendiilor
+528	- 4.2.4. Alcătuiri constructive ale elementelor de construcție
+543	- 4.2.5. Căi de evacuare a utilizatorilor în caz de incendiu
+555	- 4.2.6. Condiții de acces, intervenție și salvare în caz de incendiu
+556	- 4.2.7. Echiparea construcțiilor cu instalații și mijloace de stingere a incendiilor
+557	- 4.3. Clădiri civile cu săli aglomerate
+557	- 4.3.1. Condiții comune de performanță a construcțiilor (risc de incendiu, nivel de stabilitate la incendiu al construcției)
+559	- 4.3.2. Amplasarea și conformarea clădirilor
+563	- 4.3.3. Limitarea propagării incendiilor
+565	- 4.3.4. Alcătuiri constructive
+565	- 4.3.4.1. Prevederi generale
+569	- 4.3.4.2. Dispoziții specifice
+576	- 4.3.5. Căi de evacuare a utilizatorilor în caz de incendiu
+597	- 4.3.6. Condiții de acces, intervenție și salvare în caz de incendiu
+601	- 4.3.7. Echiparea construcțiilor cu instalații și mijloace de stingere a incendiilor
+602	5. PERFORMANȚE SPECIFICE CLĂDIRILOR CIVILE SUBTERANE ȘI PORȚIUNILOR SUBTERANE (SUBSOLURILOR) ALE CLĂDIRILOR CIVILE (PUBLICE) SUPRATERANE
+602	- 5.1. Condiții comune de performanță a construcțiilor (risc de incendiu și nivel de stabilitate la incendiu al construcției)
+606	- 5.2. Amplasarea și conformarea construcțiilor
+610	- 5.3. Limitarea propagării incendiilor
+612	- 5.4. Alcătuiri constructive
+615	- 5.5. Căi de evacuare a utilizatorilor în caz de incendiu
+622	- 5.6. Condiții de acces, intervenție și salvare în caz de incendiu
+624	- 5.7. Echiparea construcțiilor cu instalații și mijloace de stingere a incendiilor
+625	6. PERFORMANȚE SPECIFICE CONSTRUCȚIILOR DE PRODUCȚIE ȘI/SAU DEPOZITARE
+625	- 6.1. Performanțe comune construcțiilor de producție și/sau depozitare
+625	- 6.1.1. Condiții generale de performanță a construcțiilor (risc de incendiu, nivel de stabilitate la incendiu al construcției)
+629	- 6.1.2. Amplasarea și conformarea construcțiilor
+633	- 6.1.3. Limitarea propagării incendiilor
+644	- 6.1.4. Alcătuiri constructive
+653	- 6.1.5. Căi de evacuare a utilizatorilor în caz de incendiu
+671	- 6.1.6. Condiții de acces, intervenție si salvare în caz de incendiu
+674	- 6.1.7. Echiparea construcțiilor cu instalații și mijloace de stingere a incendiilor
+675	- 6.2. Performanțe specifice construcțiilor de producție și depozitare
+675	- 6.2.1. Construcții de producție și depozitare de tip obișnuit
+684	- 6.2.2. Construcții de producție și depozitare de tip special
+696	- 6.3. Performanțe specifice construcțiilor de depozitare a materialelor si substanțelor
+696	- 6.3.1. Prevederi comune
+704	- 6.3.2. Depozite închise de materiale și substanțe combustibile
+711	- 6.4. Performanțe specifice depozitelor supraterane deschise de materiale și substanțe combustibile
+719	7. PERFORMANȚE ALE CONSTRUCȚIILOR CU FUNCȚIUNI MIXTE
+719	- 7.1. Condiții comune de performanță a construcțiilor (risc de incendiu, nivel de stabilitate la incendiu al construcției)
+723	- 7.2. Amplasarea și conformarea construcțiilor
+727	- 7.3. Limitarea propagării incendiilor
+737	- 7.4. Alcătuiri constructive
+744	- 7.5. Căi de evacuare a utilizatorilor în caz de incendiu
+758	- 7.6. Condiții de acces, intervenție si salvare în caz de incendiu
+760	- 7.7. Echiparea construcțiilor cu instalații și mijloace de stingere a incendiilor
+762	SISTEME DE CONTROL AL FUMULUI ȘI A GAZELOR FIERBINȚI ÎN CAZ DE INCENDIU
+762	8.1. Dispoziții generale
+778	8.2. Evacuarea fumului prin tiraj natural - organizat
+784	8.3. Evacuarea fumului prin ventilare mecanică
+786	8.4. Tubulaturi de evacuare a fumului și de admisie a aerului, ghene, ventilatoare
+792	8.5. Case de scări închise si circulații comune orizontale închise
+801	8.6. Atriumuri
+803	8.7. Metoda simplificată de calcul pentru evacuarea fumului și a gazelor fierbinți în caz de incendiu
+812	INTERVENȚII LA CONSTRUCȚII EXISTENTE CARE CONSTITUIE FOND CONSTRUIT ANTERIOR DATEI INTRĂRII ÎN VIGOARE A PREZENTULUI NORMATIV
+816	ANEXE
+816	la Normativul privind securitatea la incendiu a construcțiilor indicativ p 118-1/2025
+859	-----

@@ -1,0 +1,14 @@
+---
+act: Normativ privind securitatea la incendiu a construcțiilor, indicativ P 118/1-2025
+citare: "art. 4.3.2.4"
+structura: ["4. PERFORMANȚE SPECIFICE CLĂDIRILOR CIVILE SUPRATERANE ÎNALTE, FOARTE ÎNALTE SAU CU SĂLI AGLOMERATE", "4.3. Clădiri civile cu săli aglomerate", "4.3.2. Amplasarea și conformarea clădirilor"]
+tabele: []
+figuri: []
+forma: publicat M.Of. 204 bis/10.03.2025, fără modificări
+sursa: https://legislatie.just.ro/Public/DetaliiDocument/295705
+---
+
+# Art. 4.3.2.4
+(1) Porțiunile de clădire aferente sălilor aglomerate din construcții cu alte destinații, se pot constitui în compartimente de incendiu distincte, independente funcțional, delimitate față de restul clădirii conform prevederilor normate, compartimentarea se poate realiza în limitele compartimentelor de incendiu stabilite pentru fiecare tip sau funcțiune distincte potrivit prevederilor normativului, asigurându-se separarea tipurilor și/sau a funcțiunilor diferite cu elemente de construcție verticale și orizontale cu rezistențe la foc determinate în funcție de densitatea sarcinii termice (q) din spațiile adiacente, dar nu mai puțin de REI 180 sau EI-M 180 pentru pereți și REI 120 pentru planșee și protecții a golurilor conform prevederilor normativului. Pentru fiecare compartiment de incendiu distinct, se asigură căi de acces și de evacuare pentru utilizatori, precum și căi de acces carosabile corespunzător dimensionate pentru circulația și amplasarea autospecialelor pentru intervenție de stingere și salvare în caz de incendiu, cel puțin pe două laturi.
+(2) Atunci când porțiunile de clădire aferente sălilor aglomerate se constituie în compartimente de incendiu distincte, independente funcțional, în cadrul construcțiilor civile cu înălțime obișnuită, măsurile de protecție pasive specifice clădirilor cu săli aglomerate se aplică doar compartimentelor ce includ săli aglomerate, cu excepția asigurării pentru fiecare compartiment a minimum două căi de evacuare distincte pentru utilizatori și a condițiilor minime de rezistență la foc pe care trebuie să le îndeplinească principalele elemente de construcție utilizate pentru încadrarea întregii construcții în nivelul de stabilitate la incendiu specificat de Art. 4.3.2.1. astfel încât întreaga construcție să îndeplinească condițiile de corelare normate între modul de amplasare, categoria sălii aglomerate supraterane și capacitatea maximă simultană de utilizatori admisă.
+(3) Atunci când porțiunile de clădire aferente sălilor aglomerate se constituie în compartimente de incendiu distincte, independente funcțional, în cadrul clădirilor înalte sau foarte înalte vor fi îndeplinite și condițiile de performanță specifice acestor tipuri de clădiri, asigurându-se îndeplinirea condițiilor de performanță cele mai severe prevăzute în normativ pentru respectivele tipuri de clădiri.

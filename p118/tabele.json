@@ -1,0 +1,1046 @@
+[
+ {
+  "tabel": "Tabelul 1",
+  "titlu": "Clasa de autoînchidere (închidere automată) a ușilor",
+  "citare": "art. 1.2.1",
+  "fisier": "articole/art-1.2.1.md"
+ },
+ {
+  "tabel": "Tabelul 2",
+  "titlu": "Condiții minime pentru încadrarea construcției sau a compartimentului de incendiu în niveluri de stabilitate la incendiu pentru construcții civile",
+  "citare": "art. 2.1.3.2",
+  "fisier": "articole/art-2.1.3.2.md"
+ },
+ {
+  "tabel": "Tabelul 3",
+  "titlu": "Condiții minime pentru încadrarea construcției sau a compartimentului de incendiu în niveluri de stabilitate la incendiu pentru construcții de producție și/sau depozitare",
+  "citare": "art. 2.1.3.2",
+  "fisier": "articole/art-2.1.3.2.md"
+ },
+ {
+  "tabel": "Tabelul 4",
+  "titlu": "Distanțe minime de siguranță între construcții sau compartimente de incendiu supraterane (civile, de producție și/sau depozitare)",
+  "citare": "art. 2.2.1.2",
+  "fisier": "articole/art-2.2.1.2.md"
+ },
+ {
+  "tabel": "Tabelul 5",
+  "titlu": "Rezistențe la foc normate ale pereților (EI/REI) și planșeelor (REI) corespunzătoare densităților sarcinilor termice (q) din spațiile adiacente și/sau densităților sarcinilor termice (q) cele mai mari",
+  "citare": "art. 2.3.1.2",
+  "fisier": "articole/art-2.3.1.2.md"
+ },
+ {
+  "tabel": "Tabelul 6",
+  "titlu": "Rezistențe la foc normate ale pereților care separă compartimentele de incendiu (EI- M/REI) pentru construcțiile cu regim de înălțime parter, cu excepția clădirilor cu persoane care nu se pot evacua s",
+  "citare": "art. 2.3.2.1.2",
+  "fisier": "articole/art-2.3.2.1.2.md"
+ },
+ {
+  "tabel": "Tabelul 7",
+  "titlu": "Rezistența la foc a pereților din exterior și ale elementelor de închidere rezistente la foc ale golurilor funcționale prevăzute în pereții din exterior amplasate la colțurile întrânde ale construcții",
+  "citare": "art. 2.3.2.1.9",
+  "fisier": "articole/art-2.3.2.1.9.md"
+ },
+ {
+  "tabel": "Tabelul 8",
+  "titlu": "Rezistența la foc a pereților din exterior și ale elementelor de închidere rezistente la foc ale golurilor funcționale prevăzute în pereții din exterior amplasate la colțurile întrânde ale construcții",
+  "citare": "art. 2.3.2.1.9",
+  "fisier": "articole/art-2.3.2.1.9.md"
+ },
+ {
+  "tabel": "Tabelul 9",
+  "titlu": "Rezistența la foc a pereților din exterior și ale elementelor de închidere rezistente la foc ale golurilor funcționale prevăzute în pereții din exterior amplasate la colțurile întrânde ale construcții",
+  "citare": "art. 2.3.2.1.9",
+  "fisier": "articole/art-2.3.2.1.9.md"
+ },
+ {
+  "tabel": "Tabelul 10",
+  "titlu": "Rezistența la foc a pereților din exterior și ale elementelor de închidere rezistente la foc ale golurilor funcționale prevăzute în pereții din exterior amplasate la colțurile întrânde ale construcții",
+  "citare": "art. 2.3.2.1.9",
+  "fisier": "articole/art-2.3.2.1.9.md"
+ },
+ {
+  "tabel": "Tabelul 11",
+  "titlu": "Rezistența la foc a pereților din exterior și ale elementelor de închidere rezistente la foc ale golurilor funcționale prevăzute în pereții din exterior amplasate la colțurile întrânde ale construcții",
+  "citare": "art. 2.3.2.1.9",
+  "fisier": "articole/art-2.3.2.1.9.md"
+ },
+ {
+  "tabel": "Tabelul 12",
+  "titlu": "Rezistența la foc a pereților din exterior și ale elementelor de închidere rezistente la foc ale golurilor funcționale prevăzute în pereții din exterior amplasate la colțurile întrânde ale construcții",
+  "citare": "art. 2.3.2.1.9",
+  "fisier": "articole/art-2.3.2.1.9.md"
+ },
+ {
+  "tabel": "Tabelul 13",
+  "titlu": "Rezistența la foc a pereților din exterior și ale elementelor de închidere rezistente la foc ale golurilor funcționale prevăzute în pereții de compartimentare (din exterior) amplasați la colțurile înt",
+  "citare": "art. 2.3.2.1.9",
+  "fisier": "articole/art-2.3.2.1.9.md"
+ },
+ {
+  "tabel": "Tabelul 14",
+  "titlu": "Pereți și planșee la încăperi tampon protejate și goluri pentru circulație funcțională și evacuare practicate în pereții încăperilor tampon",
+  "citare": "art. 2.3.2.2.3.1",
+  "fisier": "articole/art-2.3.2.2.3.1.md"
+ },
+ {
+  "tabel": "Tabelul 15",
+  "titlu": "Pereți și planșee la tamburi deschiși și echiparea acestora",
+  "citare": "art. 2.3.2.2.4.1",
+  "fisier": "articole/art-2.3.2.2.4.1.md"
+ },
+ {
+  "tabel": "Tabelul 16",
+  "titlu": "Termoizolație exterioară și/sau sisteme compozite de izolare termică (sisteme compacte în condiții de utilizare finală) pe fațade pline sau prevăzute cu elemente vitrate sau alte goluri neprotejate (p",
+  "citare": "art. 2.3.6.1.8",
+  "fisier": "articole/art-2.3.6.1.8.md"
+ },
+ {
+  "tabel": "Tabelul 17",
+  "titlu": "Clase de performanță privind reacția la foc a materialelor folosite pentru plafoane",
+  "citare": "art. 2.4.5.2",
+  "fisier": "articole/art-2.4.5.2.md"
+ },
+ {
+  "tabel": "Tabelul 18",
+  "titlu": "Clase de performanță privind reacția la foc a produselor folosite pentru pardoseli supraînălțate",
+  "citare": "art. 2.4.5.4",
+  "fisier": "articole/art-2.4.5.4.md"
+ },
+ {
+  "tabel": "Tabelul 19",
+  "titlu": "Clase de performanță privind reacția la foc a produselor folosite pentru finisajele interioare la casele de scări închise, căi de evacuare orizontale (coridoare și holuri, tuneluri, degajamente protej",
+  "citare": "art. 2.4.6.1",
+  "fisier": "articole/art-2.4.6.1.md"
+ },
+ {
+  "tabel": "Tabelul 20",
+  "titlu": "Separarea orizontală și verticală la un sistem de fațadă dublă",
+  "citare": "art. 2.4.7.3.4",
+  "fisier": "articole/art-2.4.7.3.4.md"
+ },
+ {
+  "tabel": "Tabelul 21",
+  "titlu": "Condiții minime de separare a încăperilor de depozitare cu aria utilă > 36 mp din construcții civile",
+  "citare": "art. 2.4.16.2",
+  "fisier": "articole/art-2.4.16.2.md"
+ },
+ {
+  "tabel": "Tabelul 22",
+  "titlu": "Condiții minime de separare a încăperilor de depozitare cu aria util ≤ 36 mp din construcții civile",
+  "citare": "art. 2.4.16.2",
+  "fisier": "articole/art-2.4.16.2.md"
+ },
+ {
+  "tabel": "Tabelul 23",
+  "titlu": "Număr minim simultan de persoane din clădiri de locuit",
+  "citare": "art. 2.5.9.2",
+  "fisier": "articole/art-2.5.9.2.md"
+ },
+ {
+  "tabel": "Tabelul 24",
+  "titlu": "Număr minim simultan de persoane din clădiri administrative - administrații centrale sau locale, financiar-bancare, sindicate, partide, birouri",
+  "citare": "art. 2.5.9.2",
+  "fisier": "articole/art-2.5.9.2.md"
+ },
+ {
+  "tabel": "Tabelul 25",
+  "titlu": "Număr minim simultan de persoane din clădiri pentru comerț - magazine, centre și complexuri comerciale, galerii comerciale, hipermarketuri sau supermarketuri cu aria desfășurată de maximum 1.500 mp",
+  "citare": "art. 2.5.9.2",
+  "fisier": "articole/art-2.5.9.2.md"
+ },
+ {
+  "tabel": "Tabelul 26",
+  "titlu": "Număr minim simultan de persoane din clădiri pentru comerț - Magazine, centre și complexuri comerciale, galerii comerciale, hipermarketuri sau supermarketuri cu aria desfășurată mai mare sau egală cu",
+  "citare": "art. 2.5.9.2",
+  "fisier": "articole/art-2.5.9.2.md"
+ },
+ {
+  "tabel": "Tabelul 27",
+  "titlu": "Număr minim simultan de persoane din clădiri pentru comerț - alimentație publică",
+  "citare": "art. 2.5.9.2",
+  "fisier": "articole/art-2.5.9.2.md"
+ },
+ {
+  "tabel": "Tabelul 28",
+  "titlu": "Număr minim simultan de persoane din clădiri pentru comerț - alte spații pentru comerț",
+  "citare": "art. 2.5.9.2",
+  "fisier": "articole/art-2.5.9.2.md"
+ },
+ {
+  "tabel": "Tabelul 29",
+  "titlu": "Număr minim simultan de persoane din clădiri pentru sănătate",
+  "citare": "art. 2.5.9.2",
+  "fisier": "articole/art-2.5.9.2.md"
+ },
+ {
+  "tabel": "Tabelul 30",
+  "titlu": "Număr minim simultan de persoane din clădiri pentru cultură",
+  "citare": "art. 2.5.9.2",
+  "fisier": "articole/art-2.5.9.2.md"
+ },
+ {
+  "tabel": "Tabelul 31",
+  "titlu": "Număr minim simultan de persoane din clădiri pentru învățământ",
+  "citare": "art. 2.5.9.2",
+  "fisier": "articole/art-2.5.9.2.md"
+ },
+ {
+  "tabel": "Tabelul 32",
+  "titlu": "Număr minim simultan de persoane din clădiri pentru turism",
+  "citare": "art. 2.5.9.2",
+  "fisier": "articole/art-2.5.9.2.md"
+ },
+ {
+  "tabel": "Tabelul 33",
+  "titlu": "Număr minim simultan de persoane din clădiri de cult",
+  "citare": "art. 2.5.9.2",
+  "fisier": "articole/art-2.5.9.2.md"
+ },
+ {
+  "tabel": "Tabelul 34",
+  "titlu": "Număr minim simultan de persoane din clădiri de sport",
+  "citare": "art. 2.5.9.2",
+  "fisier": "articole/art-2.5.9.2.md"
+ },
+ {
+  "tabel": "Tabelul 35",
+  "titlu": "Număr minim simultan de persoane din construcții civile supraterane cu înălțimi obișnuite, montane sau din Delta Dunării, amplasate izolat",
+  "citare": "art. 2.5.9.2",
+  "fisier": "articole/art-2.5.9.2.md"
+ },
+ {
+  "tabel": "Tabelul 36",
+  "titlu": "Număr minim simultan de persoane din parcaje pentru autoturisme",
+  "citare": "art. 2.5.9.2",
+  "fisier": "articole/art-2.5.9.2.md"
+ },
+ {
+  "tabel": "Tabelul 37",
+  "titlu": "Număr minim simultan de persoane din construcții și amenajări în aer liber cu destinații civile",
+  "citare": "art. 2.5.9.2",
+  "fisier": "articole/art-2.5.9.2.md"
+ },
+ {
+  "tabel": "Tabelul 38",
+  "titlu": "Număr maxim simultan de persoane din clădiri subterane",
+  "citare": "art. 2.5.9.2",
+  "fisier": "articole/art-2.5.9.2.md"
+ },
+ {
+  "tabel": "Tabelul 39",
+  "titlu": "Număr minim simultan de persoane din construcții de producție și / sau depozitare",
+  "citare": "art. 2.5.9.2",
+  "fisier": "articole/art-2.5.9.2.md"
+ },
+ {
+  "tabel": "Tabelul 40",
+  "titlu": "Număr minim simultan de persoane din încăperi specifice mai multor funcțiuni / destinații de clădiri civile",
+  "citare": "art. 2.5.9.2",
+  "fisier": "articole/art-2.5.9.2.md"
+ },
+ {
+  "tabel": "Tabelul 41",
+  "titlu": "Condiții de corelare a ariilor construite (Ac) ale clădirilor și compartimentelor de incendiu supraterane civile cu nivelul de stabilitate la incendiu",
+  "citare": "art. 3.1.2.6",
+  "fisier": "articole/art-3.1.2.6.md"
+ },
+ {
+  "tabel": "Tabelul 42",
+  "titlu": "Condiții de corelare între destinație, capacitatea maximă simultană și numărul de niveluri supraterane ale clădirilor civile, cu nivel de stabilitate la incendiu III, IV sau V",
+  "citare": "art. 3.1.2.7",
+  "fisier": "articole/art-3.1.2.7.md"
+ },
+ {
+  "tabel": "Tabelul 43",
+  "titlu": "Mansardarea construcțiilor civile supraterane (realizarea unui nivel funcțional în volumul podului)",
+  "citare": "art. 3.1.2.8",
+  "fisier": "articole/art-3.1.2.8.md"
+ },
+ {
+  "tabel": "Tabelul 44",
+  "titlu": "Mansardarea construcțiilor civile supraterane (realizarea mai multor niveluri funcționale în volumul podului)",
+  "citare": "art. 3.1.2.8",
+  "fisier": "articole/art-3.1.2.8.md"
+ },
+ {
+  "tabel": "Tabelul 45",
+  "titlu": "Comportare la foc a pereților și ușilor pereților cu rol de sectorizare prevăzuți pentru limitarea propagării incendiului în interiorul unui compartiment de incendiu",
+  "citare": "art. 3.1.3.4",
+  "fisier": "articole/art-3.1.3.4.md"
+ },
+ {
+  "tabel": "Tabelul 46",
+  "titlu": "Comportare la foc a pereților, ușilor și planșeelor de separare a caselor de scări închise din clădiri civile cu înălțimi obișnuite, atunci când nu se regăsesc în destinațiile specifice detaliate în n",
+  "citare": "art. 3.1.3.5",
+  "fisier": "articole/art-3.1.3.5.md"
+ },
+ {
+  "tabel": "Tabelul 47",
+  "titlu": "Comportare la foc a pereților, ușilor și planșeelor de separare a căilor de evacuare orizontale (coridoare și holuri) din clădiri civile cu înălțimi obișnuite, atunci când nu se regăsesc în destinații",
+  "citare": "art. 3.1.3.5",
+  "fisier": "articole/art-3.1.3.5.md"
+ },
+ {
+  "tabel": "Tabelul 48",
+  "titlu": "Clase de performanță privind reacția la foc a produselor folosite pentru finisajele interioare la casele de scări închise și a căilor de circulație funcțională și de evacuare orizontale (coridoare și",
+  "citare": "art. 3.1.4.11",
+  "fisier": "articole/art-3.1.4.11.md"
+ },
+ {
+  "tabel": "Tabelul 49",
+  "titlu": "Clase de performanță privind reacția la foc a produselor folosite pentru finisajele interioare la încăperi, cu excepția caselor de scări închise și a căilor de circulație funcțională și de evacuare or",
+  "citare": "art. 3.1.4.11",
+  "fisier": "articole/art-3.1.4.11.md"
+ },
+ {
+  "tabel": "Tabelul 50",
+  "titlu": "Lungimi de evacuare pe circulațiile comune orizontale deschise spre atriumuri",
+  "citare": "art. 3.1.5.4",
+  "fisier": "articole/art-3.1.5.4.md"
+ },
+ {
+  "tabel": "Tabelul 51",
+  "titlu": "Număr normat de utilizatori pe unitatea de trecere (flux) de evacuare (Uf) din construcțiile civile cu înălțimi obișnuite",
+  "citare": "art. 3.1.5.6",
+  "fisier": "articole/art-3.1.5.6.md"
+ },
+ {
+  "tabel": "Tabelul 52",
+  "titlu": "Clase de performanță privind reacția la foc a produselor folosite pentru finisajele interioare ale circulațiilor funcționale și de evacuare din clădiri de locuit supraterane cu înălțimi obișnuite",
+  "citare": "art. 3.2.1.4",
+  "fisier": "articole/art-3.2.1.4.md"
+ },
+ {
+  "tabel": "Tabelul 53",
+  "titlu": "Condiții pentru pereții despărțitori din clădirile de locuit supraterane cu înălțimi obișnuite",
+  "citare": "art. 3.2.1.6",
+  "fisier": "articole/art-3.2.1.6.md"
+ },
+ {
+  "tabel": "Tabelul 54",
+  "titlu": "Comportare la foc a pereților, ușilor și planșeelor de separarea caselor de scări închise și a ușilor din clădirile de locuit cu înălțimi obișnuite",
+  "citare": "art. 3.2.1.8",
+  "fisier": "articole/art-3.2.1.8.md"
+ },
+ {
+  "tabel": "Tabelul 55",
+  "titlu": "Comportare la foc a pereților, ușilor și planșeelor de separare a căilor de evacuare orizontale (coridoare și holuri) din clădirile de locuit cu înălțimi obișnuite",
+  "citare": "art. 3.2.1.9",
+  "fisier": "articole/art-3.2.1.9.md"
+ },
+ {
+  "tabel": "Tabelul 56",
+  "titlu": "Lungimi de evacuare în clădiri de locuit supraterane cu înălțimi obișnuite",
+  "citare": "art. 3.2.1.12",
+  "fisier": "articole/art-3.2.1.12.md"
+ },
+ {
+  "tabel": "Tabelul 57",
+  "titlu": "Comportare la foc a pereților, ușilor și planșeelor de separare a caselor de scări închise și a ușilor din clădirile administrative supraterane cu înălțimi obișnuite",
+  "citare": "art. 3.2.2.6",
+  "fisier": "articole/art-3.2.2.6.md"
+ },
+ {
+  "tabel": "Tabelul 58",
+  "titlu": "Comportare la foc a pereților, ușilor și planșeelor de separare a căilor de evacuare orizontale (coridoare și holuri) din clădirile administrative supraterane cu înălțimi obișnuite",
+  "citare": "art. 3.2.2.7",
+  "fisier": "articole/art-3.2.2.7.md"
+ },
+ {
+  "tabel": "Tabelul 59",
+  "titlu": "Comportare la foc a pereților, ușilor și planșeelor de separare a holurilor de acces (lobby) din clădirile administrative supraterane cu înălțimi obișnuite",
+  "citare": "art. 3.2.2.8",
+  "fisier": "articole/art-3.2.2.8.md"
+ },
+ {
+  "tabel": "Tabelul 60",
+  "titlu": "Lungimi de evacuare în clădiri administrative supraterane cu înălțimi obișnuite",
+  "citare": "art. 3.2.2.9",
+  "fisier": "articole/art-3.2.2.9.md"
+ },
+ {
+  "tabel": "Tabelul 61",
+  "titlu": "Comportare la foc a pereților, ușilor și planșeelor de separare a caselor de scări închise din clădirile pentru comerț supraterane cu înălțimi obișnuite",
+  "citare": "art. 3.2.3.15",
+  "fisier": "articole/art-3.2.3.15.md"
+ },
+ {
+  "tabel": "Tabelul 62",
+  "titlu": "Comportare la foc a pereților, ușilor și planșeelor de separare a căilor de evacuare orizontale (coridoare) din clădirile pentru comerț supraterane cu înălțimi obișnuite",
+  "citare": "art. 3.2.3.16",
+  "fisier": "articole/art-3.2.3.16.md"
+ },
+ {
+  "tabel": "Tabelul 63",
+  "titlu": "Comportare la foc a pereților, ușilor și planșeelor de separare a căilor de evacuare orizontale (holuri) din clădirile pentru comerț supraterane cu înălțimi obișnuite",
+  "citare": "art. 3.2.3.17",
+  "fisier": "articole/art-3.2.3.17.md"
+ },
+ {
+  "tabel": "Tabelul 64",
+  "titlu": "Lungimi de evacuare în clădiri pentru comerț supraterane cu înălțimi obișnuite",
+  "citare": "art. 3.2.3.19",
+  "fisier": "articole/art-3.2.3.19.md"
+ },
+ {
+  "tabel": "Tabelul 65",
+  "titlu": "Comportare la foc a pereților, ușilor și planșeelor de separare a caselor de scări închise din clădirile pentru sănătate supraterane cu înălțimi obișnuite",
+  "citare": "art. 3.2.4.5",
+  "fisier": "articole/art-3.2.4.5.md"
+ },
+ {
+  "tabel": "Tabelul 66",
+  "titlu": "Comportare la foc a pereților, ușilor și planșeelor de separare a căilor de evacuare orizontale (coridoare și holuri) din clădirile pentru sănătate supraterane cu înălțimi obișnuite",
+  "citare": "art. 3.2.4.6",
+  "fisier": "articole/art-3.2.4.6.md"
+ },
+ {
+  "tabel": "Tabelul 67",
+  "titlu": "Lungimi de evacuare în clădiri pentru sănătate supraterane cu înălțimi obișnuite (la care este necesar transportul bolnavilor cu targa sau cu căruciorul)",
+  "citare": "art. 3.2.4.8",
+  "fisier": "articole/art-3.2.4.8.md"
+ },
+ {
+  "tabel": "Tabelul 68",
+  "titlu": "Lungimi de evacuare în clădiri pentru sănătate supraterane cu înălțimi obișnuite (la care nu este necesar transportul bolnavilor cu targa sau cu căruciorul)",
+  "citare": "art. 3.2.4.8",
+  "fisier": "articole/art-3.2.4.8.md"
+ },
+ {
+  "tabel": "Tabelul 69",
+  "titlu": "Comportare la foc a pereților, ușilor și planșeelor de separare a caselor de scări închise din clădirile pentru cultură supraterane cu înălțimi obișnuite",
+  "citare": "art. 3.2.5.3",
+  "fisier": "articole/art-3.2.5.3.md"
+ },
+ {
+  "tabel": "Tabelul 70",
+  "titlu": "Comportare la foc a pereților, ușilor și planșeelor de separare a căilor de evacuare orizontale (coridoare și holuri) din clădirile pentru cultură supraterane cu înălțimi obișnuite",
+  "citare": "art. 3.2.5.4",
+  "fisier": "articole/art-3.2.5.4.md"
+ },
+ {
+  "tabel": "Tabelul 71",
+  "titlu": "Elemente de separare (pereți și planșee) din clădirile pentru cultură supraterane cu înălțimi obișnuite",
+  "citare": "art. 3.2.5.6",
+  "fisier": "articole/art-3.2.5.6.md"
+ },
+ {
+  "tabel": "Tabelul 72",
+  "titlu": "Lungimi de evacuare în clădiri pentru cultură supraterane cu înălțimi obișnuite",
+  "citare": "art. 3.2.5.8",
+  "fisier": "articole/art-3.2.5.8.md"
+ },
+ {
+  "tabel": "Tabelul 73",
+  "titlu": "Comportare la foc a pereților, ușilor și planșeelor de separare a caselor de scări închise din clădirile pentru învățământ primar, secundar, terțiar, nonuniversitar și universitar supraterane cu înălț",
+  "citare": "art. 3.2.6.6",
+  "fisier": "articole/art-3.2.6.6.md"
+ },
+ {
+  "tabel": "Tabelul 74",
+  "titlu": "Comportare la foc a pereților, ușilor și planșeelor de separare a caselor de scări închise din clădirile pentru învățământ preșcolar supraterane cu înălțimi obișnuite",
+  "citare": "art. 3.2.6.7",
+  "fisier": "articole/art-3.2.6.7.md"
+ },
+ {
+  "tabel": "Tabelul 75",
+  "titlu": "Comportare la foc a pereților, a ușilor și planșeelor de separare a căilor de evacuare orizontale (coridoare și holuri) din clădirile pentru învățământ primar, secundar, terțiar, nonuniversitar și uni",
+  "citare": "art. 3.2.6.8",
+  "fisier": "articole/art-3.2.6.8.md"
+ },
+ {
+  "tabel": "Tabelul 76",
+  "titlu": "Comportare la foc a pereților, ușilor și planșeelor de separare a căilor de evacuare orizontale (coridoare și holuri) din clădirile pentru învățământ preșcolar supraterane cu înălțimi obișnuite",
+  "citare": "art. 3.2.6.9",
+  "fisier": "articole/art-3.2.6.9.md"
+ },
+ {
+  "tabel": "Tabelul 77",
+  "titlu": "Lungimi de evacuare în clădiri pentru învățământ supraterane cu înălțimi obișnuite",
+  "citare": "art. 3.2.6.11",
+  "fisier": "articole/art-3.2.6.11.md"
+ },
+ {
+  "tabel": "Tabelul 78",
+  "titlu": "Comportarea la foc a pereților, ușilor și planșeelor de separare a caselor de scări închise din clădirile pentru turism supraterane cu înălțimi obișnuite",
+  "citare": "art. 3.2.7.2",
+  "fisier": "articole/art-3.2.7.2.md"
+ },
+ {
+  "tabel": "Tabelul 79",
+  "titlu": "Comportarea la foc a pereților, ușilor și planșeelor de separare a căilor de evacuare orizontale (coridoare și holuri) din clădirile pentru turism supraterane cu înălțimi obișnuite",
+  "citare": "art. 3.2.7.3",
+  "fisier": "articole/art-3.2.7.3.md"
+ },
+ {
+  "tabel": "Tabelul 80",
+  "titlu": "Lungimi de evacuare în clădiri pentru turism supraterane cu înălțimi obișnuite",
+  "citare": "art. 3.2.7.5",
+  "fisier": "articole/art-3.2.7.5.md"
+ },
+ {
+  "tabel": "Tabelul 81",
+  "titlu": "Lungimi de evacuare în clădiri de cult supraterane cu înălțimi obișnuite",
+  "citare": "art. 3.2.8.5",
+  "fisier": "articole/art-3.2.8.5.md"
+ },
+ {
+  "tabel": "Tabelul 82",
+  "titlu": "Comportare la foc a pereților, ușilor și planșeelor de separare a caselor de scări închise din clădirile pentru sport supraterane cu înălțimi obișnuite",
+  "citare": "art. 3.2.9.3",
+  "fisier": "articole/art-3.2.9.3.md"
+ },
+ {
+  "tabel": "Tabelul 83",
+  "titlu": "Comportarea la foc a pereților, ușilor și planșeelor de separare a căilor de evacuare orizontale (coridoare și holuri) din clădirile pentru sport supraterane cu înălțimi obișnuite",
+  "citare": "art. 3.2.9.4",
+  "fisier": "articole/art-3.2.9.4.md"
+ },
+ {
+  "tabel": "Tabelul 84",
+  "titlu": "Lungimi de evacuare în clădiri pentru sport supraterane închise, cu înălțimi obișnuite",
+  "citare": "art. 3.2.9.6",
+  "fisier": "articole/art-3.2.9.6.md"
+ },
+ {
+  "tabel": "Tabelul 85",
+  "titlu": "Comportare la foc a pereților, ușilor și planșeelor de separare a caselor de scări închise din clădirile civile supraterane cu înălțimi obișnuite montane sau din Delta Dunării, amplasate izolat",
+  "citare": "art. 3.2.10.4",
+  "fisier": "articole/art-3.2.10.4.md"
+ },
+ {
+  "tabel": "Tabelul 86",
+  "titlu": "Comportare la foc a pereților, ușilor și planșeelor de separare a căilor de evacuare orizontale (coridoare și holuri) din clădirile civile supraterane cu înălțimi obișnuite montane sau din Delta Dunăr",
+  "citare": "art. 3.2.10.5",
+  "fisier": "articole/art-3.2.10.5.md"
+ },
+ {
+  "tabel": "Tabelul 87",
+  "titlu": "Lungimi de evacuare în clădiri civile supraterane cu înălțimi obișnuite montane sau din Delta Dunării, amplasate izolat",
+  "citare": "art. 3.2.10.9",
+  "fisier": "articole/art-3.2.10.9.md"
+ },
+ {
+  "tabel": "Tabelul 88",
+  "titlu": "Lungimi de evacuare în parcaje pentru autoturisme",
+  "citare": "art. 3.2.11.12",
+  "fisier": "articole/art-3.2.11.12.md"
+ },
+ {
+  "tabel": "Tabelul 89",
+  "titlu": "Număr maxim de locuri admise pe un rând de scaune",
+  "citare": "art. 3.3.2.12",
+  "fisier": "articole/art-3.3.2.12.md"
+ },
+ {
+  "tabel": "Tabelul 90",
+  "titlu": "Condiții minime de separare a încăperilor de depozitare cu densitatea sarcinii termice ≥ 420 MJ/mp din clădirile civile supraterane înalte",
+  "citare": "art. 4.1.4.8",
+  "fisier": "articole/art-4.1.4.8.md"
+ },
+ {
+  "tabel": "Tabelul 91",
+  "titlu": "Comportare la foc a pereților, ușilor și planșeelor de separare a caselor de scări închise din clădirile civile supraterane înalte",
+  "citare": "art. 4.1.5.2",
+  "fisier": "articole/art-4.1.5.2.md"
+ },
+ {
+  "tabel": "Tabelul 92",
+  "titlu": "Comportare la foc a pereților, ușilor și planșeelor de separare a căilor de evacuare orizontale (coridoare și holuri) din clădirile civile supraterane înalte",
+  "citare": "art. 4.1.5.3",
+  "fisier": "articole/art-4.1.5.3.md"
+ },
+ {
+  "tabel": "Tabelul 93",
+  "titlu": "Lungimi de evacuare în clădiri supraterane înalte",
+  "citare": "art. 4.1.5.6",
+  "fisier": "articole/art-4.1.5.6.md"
+ },
+ {
+  "tabel": "Tabelul 94",
+  "titlu": "Condiții minime de separare a încăperilor de depozitare cu densitatea sarcinii termice ≥ 420 MJ/mp din clădirile civile supraterane foarte înalte",
+  "citare": "art. 4.2.4.8",
+  "fisier": "articole/art-4.2.4.8.md"
+ },
+ {
+  "tabel": "Tabelul 95",
+  "titlu": "Comportare la foc a pereților, ușilor și planșeelor de separare a caselor de scări închise din clădirile civile supraterane foarte înalte",
+  "citare": "art. 4.2.5.2",
+  "fisier": "articole/art-4.2.5.2.md"
+ },
+ {
+  "tabel": "Tabelul 96",
+  "titlu": "Comportare la foc a pereților, ușilor și planșeelor de separare a căilor de evacuare orizontale (coridoare și holuri) din clădirile civile supraterane foarte înalte",
+  "citare": "art. 4.2.5.3",
+  "fisier": "articole/art-4.2.5.3.md"
+ },
+ {
+  "tabel": "Tabelul 97",
+  "titlu": "Lungimi de evacuare în clădiri supraterane foarte înalte",
+  "citare": "art. 4.2.5.6",
+  "fisier": "articole/art-4.2.5.6.md"
+ },
+ {
+  "tabel": "Tabelul 98",
+  "titlu": "Categorii de săli aglomerate",
+  "citare": "art. 4.3.1.2",
+  "fisier": "articole/art-4.3.1.2.md"
+ },
+ {
+  "tabel": "Tabelul 99",
+  "titlu": "Corelare între modul de amplasare, categoria sălii aglomerate supraterane și capacitatea maximă simultană de utilizatori admisă",
+  "citare": "art. 4.3.2.1",
+  "fisier": "articole/art-4.3.2.1.md"
+ },
+ {
+  "tabel": "Tabelul 100",
+  "titlu": "Corelare între categoria sălii aglomerate (porțiunea în care publicul are acces) și numărul de niveluri supraterane în care este admisă realizarea acestora",
+  "citare": "art. 4.3.2.1",
+  "fisier": "articole/art-4.3.2.1.md"
+ },
+ {
+  "tabel": "Tabelul 101",
+  "titlu": "Corelare între categoria sălii aglomerate (porțiunea în care publicul are acces) și numărul maxim de niveluri subterane în care este admisă realizarea acestora",
+  "citare": "art. 4.3.2.1",
+  "fisier": "articole/art-4.3.2.1.md"
+ },
+ {
+  "tabel": "Tabelul 102",
+  "titlu": "Elemente de separare din interiorul clădirii și compartimentelor de incendiu sau funcționale ale clădirilor cu săli aglomerate",
+  "citare": "art. 4.3.3.1",
+  "fisier": "articole/art-4.3.3.1.md"
+ },
+ {
+  "tabel": "Tabelul 103",
+  "titlu": "Comportare la foc a pereților, ușilor și planșeelor de separare a caselor de scări închise din clădirile cu săli aglomerate de tip S1 supraterane cu înălțimi obișnuite",
+  "citare": "art. 4.3.5.2",
+  "fisier": "articole/art-4.3.5.2.md"
+ },
+ {
+  "tabel": "Tabelul 104",
+  "titlu": "Comportare la foc a pereților, ușilor și planșeelor de separare a căilor de evacuare orizontale, coridoare, din clădirile cu săli aglomerate de tip S1 supraterane cu înălțimi obișnuite",
+  "citare": "art. 4.3.5.3",
+  "fisier": "articole/art-4.3.5.3.md"
+ },
+ {
+  "tabel": "Tabelul 105",
+  "titlu": "Comportare la foc a pereților, ușilor și planșeelor de separare a căilor de evacuare orizontale, holuri, din clădirile cu săli aglomerate de tip S1 supraterane cu înălțimi obișnuite",
+  "citare": "art. 4.3.5.4",
+  "fisier": "articole/art-4.3.5.4.md"
+ },
+ {
+  "tabel": "Tabelul 106",
+  "titlu": "Comportare la foc a pereților, ușilor și planșeelor de separare a caselor de scări închise din clădirile cu săli aglomerate de tip S2 supraterane cu înălțimi obișnuite",
+  "citare": "art. 4.3.5.5",
+  "fisier": "articole/art-4.3.5.5.md"
+ },
+ {
+  "tabel": "Tabelul 107",
+  "titlu": "Comportare la foc a pereților, ușilor și planșeelor de separare a căilor de evacuare orizontale, coridoare, din clădirile cu săli aglomerate de tip S2 supraterane cu înălțimi obișnuite",
+  "citare": "art. 4.3.5.6",
+  "fisier": "articole/art-4.3.5.6.md"
+ },
+ {
+  "tabel": "Tabelul 108",
+  "titlu": "Comportare la foc a pereților, ușilor și planșeelor de separare a căilor de evacuare orizontale, holuri, din clădirile cu săli aglomerate de tip S2 supraterane cu înălțimi obișnuite",
+  "citare": "art. 4.3.5.7",
+  "fisier": "articole/art-4.3.5.7.md"
+ },
+ {
+  "tabel": "Tabelul 109",
+  "titlu": "Număr normat de utilizatori pe unitatea de trecere (flux) de evacuare (Uf) la săli aglomerate",
+  "citare": "art. 4.3.5.8",
+  "fisier": "articole/art-4.3.5.8.md"
+ },
+ {
+  "tabel": "Tabelul 110",
+  "titlu": "Lungimi de evacuare maximum admise la săli aglomerate",
+  "citare": "art. 4.3.5.9",
+  "fisier": "articole/art-4.3.5.9.md"
+ },
+ {
+  "tabel": "Tabelul 111",
+  "titlu": "Număr maxim de locuri dispuse pe un rând de scaune",
+  "citare": "art. 4.3.5.12",
+  "fisier": "articole/art-4.3.5.12.md"
+ },
+ {
+  "tabel": "Tabelul 112",
+  "titlu": "Separare a căilor de circulație funcțională și de evacuare a utilizatorilor clădirilor subterane",
+  "citare": "art. 5.5.2",
+  "fisier": "articole/art-5.5.2.md"
+ },
+ {
+  "tabel": "Tabelul 113",
+  "titlu": "Lungimi de evacuare în clădiri civile subterane independente",
+  "citare": "art. 5.5.5",
+  "fisier": "articole/art-5.5.5.md"
+ },
+ {
+  "tabel": "Tabelul 114",
+  "titlu": "Condiții de corelare a ariilor construite (Ac) și a numărului de niveluri al construcțiilor și compartimentelor de incendiu supraterane de producție și/sau depozitare",
+  "citare": "art. 6.1.2.2",
+  "fisier": "articole/art-6.1.2.2.md"
+ },
+ {
+  "tabel": "Tabelul 115",
+  "titlu": "Numărul normat de utilizatori pe unitatea de trecere (flux) de evacuare (Uf) din construcțiile de producție și/sau depozitare",
+  "citare": "art. 6.1.5.15",
+  "fisier": "articole/art-6.1.5.15.md"
+ },
+ {
+  "tabel": "Tabelul 116",
+  "titlu": "Lungimi de evacuare în construcții de producție și/sau depozitare",
+  "citare": "art. 6.1.5.16",
+  "fisier": "articole/art-6.1.5.16.md"
+ },
+ {
+  "tabel": "Tabelul 117",
+  "titlu": "Numărul maxim de animale admis pe o ușă de evacuare",
+  "citare": "art. 6.1.5.18",
+  "fisier": "articole/art-6.1.5.18.md"
+ },
+ {
+  "tabel": "Tabelul 118",
+  "titlu": "Utilizarea conductelor colectoare de evacuare a fumului si a gazelor fierbinți pe înălțimea construcției",
+  "citare": "art. 8.1.14",
+  "fisier": "articole/art-8.1.14.md"
+ },
+ {
+  "tabel": "Tabelul 119",
+  "titlu": "Valorile coeficientului de curgere pentru gurile de introducere a aerului",
+  "citare": "art. 8.2.6",
+  "fisier": "articole/art-8.2.6.md"
+ },
+ {
+  "tabel": "Tabelul 120",
+  "titlu": "Valorile coeficientului de curgere (de debit) pentru dispozitivele automate de evacuare a fumului montate în fațade (trape verticale de fum)",
+  "citare": "art. 8.2.6",
+  "fisier": "articole/art-8.2.6.md"
+ },
+ {
+  "tabel": "Tabelul 121",
+  "titlu": "Dispunere a ecranelor continui în sistem de evacuare a fumului și gazelor fierbinți prin tiraj natural-organizat",
+  "citare": "art. 8.7.3",
+  "fisier": "articole/art-8.7.3.md"
+ },
+ {
+  "tabel": "Tabelul 122",
+  "titlu": "Debit de extragere a fumului și gazelor fierbinți prin ventilare mecanică",
+  "citare": "art. 8.7.6",
+  "fisier": "articole/art-8.7.6.md"
+ },
+ {
+  "tabel": "Tabelul 123",
+  "titlu": "Uși pentru circulație funcțională și/sau evacuare practicate în pereții antifoc din clădiri civile",
+  "citare": "Anexa nr. 2.1",
+  "fisier": "anexe/anexa-2.1.md"
+ },
+ {
+  "tabel": "Tabelul 124",
+  "titlu": "Uși pentru circulație funcțională și/sau evacuare practicate în pereții antifoc din construcții de producție si/sau depozitare",
+  "citare": "Anexa nr. 2.1",
+  "fisier": "anexe/anexa-2.1.md"
+ },
+ {
+  "tabel": "Tabelul 125",
+  "titlu": "Suprafața construită maxim admisă între spații delimitate de pereți de sectorizare",
+  "citare": "Anexa nr. 2.4",
+  "fisier": "anexe/anexa-2.4.md"
+ },
+ {
+  "tabel": "Tabelul 126",
+  "titlu": "Fluxuri de evacuare ale scării prevăzute pentru evacuarea persoanelor precum și pentru accesul forțelor de intervenție",
+  "citare": "Anexa nr. 4.1",
+  "fisier": "anexe/anexa-4.1.md"
+ },
+ {
+  "tabel": "Tabelul 127",
+  "titlu": "(echivalent cu tabel 1 din SR EN IEC 62485-2) - Valori pentru curentul I la încărcare cu profiluri de încărcare IU sau U",
+  "citare": "Anexa nr. 4.3",
+  "fisier": "anexe/anexa-4.3.md"
+ },
+ {
+  "tabel": "Tabelul 128",
+  "titlu": "Alegerea dispozitivului de ieșire pentru uși de evacuare în funcție de utilizare",
+  "citare": "Anexa nr. 5.1",
+  "fisier": "anexe/anexa-5.1.md"
+ },
+ {
+  "tabel": "Tabelul 129",
+  "titlu": "Alternative dimensionare scări de circulație funcțională și de evacuare la clădiri cu funcțiune de sănătate",
+  "citare": "Anexa nr. 7.1",
+  "fisier": "anexe/anexa-7.1.md"
+ },
+ {
+  "tabel": "Tabelul 130",
+  "titlu": "Număr maxim de locuri admise pe un rând de scaune la arene și stadioane în aer liber",
+  "citare": "Anexa nr. 7.3",
+  "fisier": "anexe/anexa-7.3.md"
+ },
+ {
+  "tabel": "Tabelul 131",
+  "titlu": "Număr maxim de rânduri de scaune la arene și stadioane în aer liber",
+  "citare": "Anexa nr. 7.3",
+  "fisier": "anexe/anexa-7.3.md"
+ },
+ {
+  "tabel": "Tabelul 132",
+  "titlu": "Încadrare în risc de incendiu (construcții noi)",
+  "citare": "Anexa nr. 8.1",
+  "fisier": "anexe/anexa-8.1.md"
+ },
+ {
+  "tabel": "Tabelul 133",
+  "titlu": "Recomandare de clasificare a materialelor/produselor și substanțelor depozitate, după clasa de periculozitate (construcții noi)",
+  "citare": "Anexa nr. 8.1",
+  "fisier": "anexe/anexa-8.1.md"
+ },
+ {
+  "tabel": "Tabelul 134",
+  "titlu": "Recomandare de clasificare a materialelor/produselor și substanțelor depozitate cu periculozitate deosebit de mare (Pentru care nu sunt aplicabile cantitățile relevante pentru încadrare în Legea nr. 5",
+  "citare": "Anexa nr. 8.1",
+  "fisier": "anexe/anexa-8.1.md"
+ },
+ {
+  "tabel": "Tabelul 135",
+  "titlu": "Categorii de lichide inflamabile",
+  "citare": "Anexa nr. 8.2",
+  "fisier": "anexe/anexa-8.2.md"
+ },
+ {
+  "tabel": "Tabelul 136",
+  "titlu": "Categorii de depozite de lichide inflamabile",
+  "citare": "Anexa nr. 8.2",
+  "fisier": "anexe/anexa-8.2.md"
+ },
+ {
+  "tabel": "Tabelul 137",
+  "titlu": "Valorile puterii calorifice pentru materiale uzuale",
+  "citare": "Anexa nr. 9.1",
+  "fisier": "anexe/anexa-9.1.md"
+ },
+ {
+  "tabel": "Tabelul 138",
+  "titlu": "Valorile puterii calorifice pentru cabluri",
+  "citare": "Anexa nr. 9.2",
+  "fisier": "anexe/anexa-9.2.md"
+ },
+ {
+  "tabel": "Tabelul 139",
+  "titlu": "Materiale și elemente de construcție incombustibile (la construcții existente)",
+  "citare": "Anexa nr. 10, cap. 1",
+  "fisier": "anexe/anexa-10-cap1.md"
+ },
+ {
+  "tabel": "Tabelul 140",
+  "titlu": "Materiale și elemente de construcție combustibile (la construcții existente)",
+  "citare": "Anexa nr. 10, cap. 1",
+  "fisier": "anexe/anexa-10-cap1.md"
+ },
+ {
+  "tabel": "Tabelul 141",
+  "titlu": "Clase de performanță privind reacția la foc a produselor pentru construcții, cu excepția pardoselilor și a produselor termoizolante pentru tubulatura liniară (*) la construcții noi și existente",
+  "citare": "Anexa nr. 10, cap. 1",
+  "fisier": "anexe/anexa-10-cap1.md"
+ },
+ {
+  "tabel": "Tabelul 142",
+  "titlu": "Clase de performanță privind reacția la foc a pardoselilor pentru construcții",
+  "citare": "Anexa nr. 10, cap. 1",
+  "fisier": "anexe/anexa-10-cap1.md"
+ },
+ {
+  "tabel": "Tabelul 143",
+  "titlu": "Caracteristici ale substanțelor și materialelor ce determină încadrarea în riscuri de incendiu a spațiilor, încăperilor, compartimentelor de incendiu și construcțiilor de producție și/sau depozitare e",
+  "citare": "Anexa nr. 10, cap. 2",
+  "fisier": "anexe/anexa-10-cap2.md"
+ },
+ {
+  "tabel": "Tabelul 144",
+  "titlu": "Condiții minime pentru încadrarea construcțiilor existente în nivel de stabilitate la incendiu",
+  "citare": "Anexa nr. 10, cap. 2",
+  "fisier": "anexe/anexa-10-cap2.md"
+ },
+ {
+  "tabel": "Tabelul 145",
+  "titlu": "Distanțe de siguranță la construcții existente",
+  "citare": "Anexa nr. 10, cap. 2",
+  "fisier": "anexe/anexa-10-cap2.md"
+ },
+ {
+  "tabel": "Tabelul 146",
+  "titlu": "Rezistența la foc a pereților la construcțiile existente",
+  "citare": "Anexa nr. 10, cap. 2",
+  "fisier": "anexe/anexa-10-cap2.md"
+ },
+ {
+  "tabel": "Tabelul 147",
+  "titlu": "Arii construite admise pentru compartimente de incendiu ale clădirilor civile existente (publice) supraterane",
+  "citare": "Anexa nr. 10, cap. 3",
+  "fisier": "anexe/anexa-10-cap3.md"
+ },
+ {
+  "tabel": "Tabelul 148",
+  "titlu": "Număr de niveluri supraterane maxim admis și capacitatea clădirilor civile existente cu nivelul de stabilitate la incendiu III, IV și V",
+  "citare": "Anexa nr. 10, cap. 3",
+  "fisier": "anexe/anexa-10-cap3.md"
+ },
+ {
+  "tabel": "Tabelul 149",
+  "titlu": "Condiții minime pentru pereți și planșee la construcții existente",
+  "citare": "Anexa nr. 10, cap. 3",
+  "fisier": "anexe/anexa-10-cap3.md"
+ },
+ {
+  "tabel": "Tabelul 150",
+  "titlu": "Capacități de evacuare la construcții existente",
+  "citare": "Anexa nr. 10, cap. 3",
+  "fisier": "anexe/anexa-10-cap3.md"
+ },
+ {
+  "tabel": "Tabelul 151",
+  "titlu": "Condiții pentru elementele de construcție (la clădiri existente)",
+  "citare": "Anexa nr. 10, cap. 3",
+  "fisier": "anexe/anexa-10-cap3.md"
+ },
+ {
+  "tabel": "Tabelul 152",
+  "titlu": "Pereți și uși de separare a căilor comune de circulație și de evacuare la clădiri existente de locuit",
+  "citare": "Anexa nr. 10, cap. 3",
+  "fisier": "anexe/anexa-10-cap3.md"
+ },
+ {
+  "tabel": "Tabelul 153",
+  "titlu": "Pereți și uși de separare a căilor comune de circulație și de evacuare la clădiri existente cu funcțiune administrativă",
+  "citare": "Anexa nr. 10, cap. 3",
+  "fisier": "anexe/anexa-10-cap3.md"
+ },
+ {
+  "tabel": "Tabelul 154",
+  "titlu": "Separare a căilor comune de circulație și de evacuare la construcții existente de comerț",
+  "citare": "Anexa nr. 10, cap. 3",
+  "fisier": "anexe/anexa-10-cap3.md"
+ },
+ {
+  "tabel": "Tabelul 155",
+  "titlu": "Separare a căilor comune de circulație și de evacuare la clădiri existente de sănătate",
+  "citare": "Anexa nr. 10, cap. 3",
+  "fisier": "anexe/anexa-10-cap3.md"
+ },
+ {
+  "tabel": "Tabelul 156",
+  "titlu": "Separare a căilor comune de circulație și de evacuare la clădiri existente pentru cultură",
+  "citare": "Anexa nr. 10, cap. 3",
+  "fisier": "anexe/anexa-10-cap3.md"
+ },
+ {
+  "tabel": "Tabelul 157",
+  "titlu": "Separare a căilor comune de circulație și de evacuare la clădiri existente de învățământ",
+  "citare": "Anexa nr. 10, cap. 3",
+  "fisier": "anexe/anexa-10-cap3.md"
+ },
+ {
+  "tabel": "Tabelul 158",
+  "titlu": "Separarea căilor comune de circulație și de evacuare la clădiri existente pentru turism",
+  "citare": "Anexa nr. 10, cap. 3",
+  "fisier": "anexe/anexa-10-cap3.md"
+ },
+ {
+  "tabel": "Tabelul 159",
+  "titlu": "Pereți de separare a căilor comune de circulație și de evacuare la clădiri existente înalte și foarte înalte",
+  "citare": "Anexa nr. 10, cap. 4",
+  "fisier": "anexe/anexa-10-cap4.md"
+ },
+ {
+  "tabel": "Tabelul 160",
+  "titlu": "Lungimi de evacuare la clădiri existente înalte și foarte înalte",
+  "citare": "Anexa nr. 10, cap. 4",
+  "fisier": "anexe/anexa-10-cap4.md"
+ },
+ {
+  "tabel": "Tabelul 161",
+  "titlu": "Categorii de săli aglomerate la clădiri existente",
+  "citare": "Anexa nr. 10, cap. 4",
+  "fisier": "anexe/anexa-10-cap4.md"
+ },
+ {
+  "tabel": "Tabelul 162",
+  "titlu": "Corelația admisă între amplasarea și categoria sălilor, numărul de locuri și nivelul de stabilitate la incendiu al clădirilor existente cu săli aglomerate",
+  "citare": "Anexa nr. 10, cap. 4",
+  "fisier": "anexe/anexa-10-cap4.md"
+ },
+ {
+  "tabel": "Tabelul 163",
+  "titlu": "Numărul de niveluri supraterane admis în clădiri cu săli aglomerate (porțiunea în care publicul are acces)",
+  "citare": "Anexa nr. 10, cap. 4",
+  "fisier": "anexe/anexa-10-cap4.md"
+ },
+ {
+  "tabel": "Tabelul 164",
+  "titlu": "Elemente de separare la săli aglomerate în clădiri existente",
+  "citare": "Anexa nr. 10, cap. 4",
+  "fisier": "anexe/anexa-10-cap4.md"
+ },
+ {
+  "tabel": "Tabelul 165",
+  "titlu": "Capacitatea de evacuare la săli aglomerate în clădiri existente",
+  "citare": "Anexa nr. 10, cap. 4",
+  "fisier": "anexe/anexa-10-cap4.md"
+ },
+ {
+  "tabel": "Tabelul 166",
+  "titlu": "Lungimi de evacuare la săli aglomerate în clădiri existente",
+  "citare": "Anexa nr. 10, cap. 4",
+  "fisier": "anexe/anexa-10-cap4.md"
+ },
+ {
+  "tabel": "Tabelul 167",
+  "titlu": "Numărul de locuri dintr-un rând de scaune la săli aglomerate în clădiri existente",
+  "citare": "Anexa nr. 10, cap. 4",
+  "fisier": "anexe/anexa-10-cap4.md"
+ },
+ {
+  "tabel": "Tabelul 168",
+  "titlu": "Arii construite și număr de niveluri admise pentru construcții existente și compartimente de incendiu ale construcțiilor existente de producție și/sau depozitare",
+  "citare": "Anexa nr. 10, cap. 5",
+  "fisier": "anexe/anexa-10-cap5.md"
+ },
+ {
+  "tabel": "Tabelul 169",
+  "titlu": "Capacități de evacuare pentru construcții existente și compartimente de incendiu ale construcțiilor existente de producție și/sau depozitare",
+  "citare": "Anexa nr. 10, cap. 5",
+  "fisier": "anexe/anexa-10-cap5.md"
+ },
+ {
+  "tabel": "Tabelul 170",
+  "titlu": "Lungimi de evacuare pentru construcții existente și compartimente de incendiu ale construcțiilor existente de producție și/sau depozitare",
+  "citare": "Anexa nr. 10, cap. 5",
+  "fisier": "anexe/anexa-10-cap5.md"
+ },
+ {
+  "tabel": "Tabelul 171",
+  "titlu": "Clasificarea materialelor și substanțelor depozitate (după clasa de periculozitate) pentru construcții existente, compartimente de incendiu ale construcțiilor existente și încăperi existente de depozi",
+  "citare": "Anexa nr. 10, cap. 6",
+  "fisier": "anexe/anexa-10-cap6.md"
+ },
+ {
+  "tabel": "Tabelul 172",
+  "titlu": "Clase de reacție la foc a lichidelor combustibile pentru construcții existente și compartimente de incendiu ale construcțiilor existente de producție și/sau depozitare",
+  "citare": "Anexa nr. 10, cap. 6",
+  "fisier": "anexe/anexa-10-cap6.md"
+ },
+ {
+  "tabel": "Tabelul 173",
+  "titlu": "Categorii de depozite de lichide combustibile pentru construcții existente, compartimente de incendiu ale construcțiilor existente și încăperi existente de depozitare a lichidelor combustibile stocate",
+  "citare": "Anexa nr. 10, cap. 6",
+  "fisier": "anexe/anexa-10-cap6.md"
+ },
+ {
+  "tabel": "Tabelul 174",
+  "titlu": "Sisteme alcătuite din dispozitive de evacuare a fumului și a gazelor fierbinți și ecrane verticale la construcții existente",
+  "citare": "Anexa nr. 10, cap. 9",
+  "fisier": "anexe/anexa-10-cap9.md"
+ }
+]

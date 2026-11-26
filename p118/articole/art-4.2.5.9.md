@@ -1,0 +1,14 @@
+---
+act: Normativ privind securitatea la incendiu a construcțiilor, indicativ P 118/1-2025
+citare: "art. 4.2.5.9"
+structura: ["4. PERFORMANȚE SPECIFICE CLĂDIRILOR CIVILE SUPRATERANE ÎNALTE, FOARTE ÎNALTE SAU CU SĂLI AGLOMERATE", "4.2. Clădiri civile supraterane foarte înalte", "4.2.5. Căi de evacuare a utilizatorilor în caz de incendiu"]
+tabele: []
+figuri: []
+forma: publicat M.Of. 204 bis/10.03.2025, fără modificări
+sursa: https://legislatie.just.ro/Public/DetaliiDocument/295705
+---
+
+# Art. 4.2.5.9
+(1) La nivelurile subterane ale clădirilor foarte înalte, accesul la scările de evacuare închise se asigură numai prin încăperi tampon protejate, ventilate în suprapresiune, realizate cu pereți rezistenți la foc minimum EI/REI 120, planșee REI 90, clasa de reacție la foc A1 sau A2-s1,d0 și uși rezistente la foc și etanșe la fum EI_2 90-C5S_200.
+(2) Ușile încăperilor tampon se prevăd cu bare antipanică.
+(3) Ușile de evacuare ce debușează în exteriorul construcției, se prevăd cu bare antipanică.

@@ -1,0 +1,637 @@
+[
+ {
+  "id": "1",
+  "eticheta": "Articolul 1",
+  "denumire": "",
+  "capitol": "Capitolul I – Dispoziții generale",
+  "sectiune": "",
+  "fisier": "articole/art-001.md",
+  "modificat_prin": []
+ },
+ {
+  "id": "2",
+  "eticheta": "Articolul 2",
+  "denumire": "",
+  "capitol": "Capitolul I – Dispoziții generale",
+  "sectiune": "",
+  "fisier": "articole/art-002.md",
+  "modificat_prin": []
+ },
+ {
+  "id": "3",
+  "eticheta": "Articolul 3",
+  "denumire": "",
+  "capitol": "Capitolul I – Dispoziții generale",
+  "sectiune": "",
+  "fisier": "articole/art-003.md",
+  "modificat_prin": []
+ },
+ {
+  "id": "4",
+  "eticheta": "Articolul 4",
+  "denumire": "",
+  "capitol": "Capitolul I – Dispoziții generale",
+  "sectiune": "",
+  "fisier": "articole/art-004.md",
+  "modificat_prin": []
+ },
+ {
+  "id": "5",
+  "eticheta": "Articolul 5",
+  "denumire": "",
+  "capitol": "Capitolul I – Dispoziții generale",
+  "sectiune": "",
+  "fisier": "articole/art-005.md",
+  "modificat_prin": []
+ },
+ {
+  "id": "6",
+  "eticheta": "Articolul 6",
+  "denumire": "",
+  "capitol": "Capitolul II – Obligații privind apărarea împotriva incendiilor",
+  "sectiune": "Secţiunea 1 – Obligații generale",
+  "fisier": "articole/art-006.md",
+  "modificat_prin": [
+   "ORDONANȚA DE URGENȚĂ nr. 17 din 12 martie 2026"
+  ]
+ },
+ {
+  "id": "7",
+  "eticheta": "Articolul 7",
+  "denumire": "",
+  "capitol": "Capitolul II – Obligații privind apărarea împotriva incendiilor",
+  "sectiune": "Secţiunea 1 – Obligații generale",
+  "fisier": "articole/art-007.md",
+  "modificat_prin": []
+ },
+ {
+  "id": "8",
+  "eticheta": "Articolul 8",
+  "denumire": "",
+  "capitol": "Capitolul II – Obligații privind apărarea împotriva incendiilor",
+  "sectiune": "Secţiunea 1 – Obligații generale",
+  "fisier": "articole/art-008.md",
+  "modificat_prin": []
+ },
+ {
+  "id": "9",
+  "eticheta": "Articolul 9",
+  "denumire": "",
+  "capitol": "Capitolul II – Obligații privind apărarea împotriva incendiilor",
+  "sectiune": "Secţiunea 1 – Obligații generale",
+  "fisier": "articole/art-009.md",
+  "modificat_prin": []
+ },
+ {
+  "id": "10",
+  "eticheta": "Articolul 10",
+  "denumire": "",
+  "capitol": "Capitolul II – Obligații privind apărarea împotriva incendiilor",
+  "sectiune": "Secţiunea 1 – Obligații generale",
+  "fisier": "articole/art-010.md",
+  "modificat_prin": []
+ },
+ {
+  "id": "11",
+  "eticheta": "Articolul 11",
+  "denumire": "",
+  "capitol": "Capitolul II – Obligații privind apărarea împotriva incendiilor",
+  "sectiune": "Secţiunea 1 – Obligații generale",
+  "fisier": "articole/art-011.md",
+  "modificat_prin": []
+ },
+ {
+  "id": "12",
+  "eticheta": "Articolul 12",
+  "denumire": "",
+  "capitol": "Capitolul II – Obligații privind apărarea împotriva incendiilor",
+  "sectiune": "Secţiunea 1 – Obligații generale",
+  "fisier": "articole/art-012.md",
+  "modificat_prin": []
+ },
+ {
+  "id": "12^1",
+  "eticheta": "Articolul 12^1",
+  "denumire": "",
+  "capitol": "Capitolul II – Obligații privind apărarea împotriva incendiilor",
+  "sectiune": "Secţiunea 1 – Obligații generale",
+  "fisier": "articole/art-012-1.md",
+  "modificat_prin": []
+ },
+ {
+  "id": "12^2",
+  "eticheta": "Articolul 12^2",
+  "denumire": "",
+  "capitol": "Capitolul II – Obligații privind apărarea împotriva incendiilor",
+  "sectiune": "Secţiunea 1 – Obligații generale",
+  "fisier": "articole/art-012-2.md",
+  "modificat_prin": [
+   "ORDONANȚA DE URGENȚĂ nr. 17 din 12 martie 2026"
+  ]
+ },
+ {
+  "id": "13",
+  "eticheta": "Articolul 13",
+  "denumire": "",
+  "capitol": "Capitolul II – Obligații privind apărarea împotriva incendiilor",
+  "sectiune": "Secţiunea a 2-a – Obligațiile consiliului local și ale primarului",
+  "fisier": "articole/art-013.md",
+  "modificat_prin": []
+ },
+ {
+  "id": "14",
+  "eticheta": "Articolul 14",
+  "denumire": "",
+  "capitol": "Capitolul II – Obligații privind apărarea împotriva incendiilor",
+  "sectiune": "Secţiunea a 2-a – Obligațiile consiliului local și ale primarului",
+  "fisier": "articole/art-014.md",
+  "modificat_prin": [
+   "ORDONANȚA DE URGENȚĂ nr. 17 din 12 martie 2026"
+  ]
+ },
+ {
+  "id": "15",
+  "eticheta": "Articolul 15",
+  "denumire": "",
+  "capitol": "Capitolul II – Obligații privind apărarea împotriva incendiilor",
+  "sectiune": "Secţiunea a 3-a – Obligațiile consiliului județean și ale Consiliului General al Municipiului București",
+  "fisier": "articole/art-015.md",
+  "modificat_prin": []
+ },
+ {
+  "id": "16",
+  "eticheta": "Articolul 16",
+  "denumire": "",
+  "capitol": "Capitolul II – Obligații privind apărarea împotriva incendiilor",
+  "sectiune": "Secţiunea a 4-a – Obligațiile prefectului",
+  "fisier": "articole/art-016.md",
+  "modificat_prin": []
+ },
+ {
+  "id": "17",
+  "eticheta": "Articolul 17",
+  "denumire": "",
+  "capitol": "Capitolul II – Obligații privind apărarea împotriva incendiilor",
+  "sectiune": "Secţiunea a 5-a – Obligațiile autorităților administrației publice centrale",
+  "fisier": "articole/art-017.md",
+  "modificat_prin": []
+ },
+ {
+  "id": "18",
+  "eticheta": "Articolul 18",
+  "denumire": "",
+  "capitol": "Capitolul II – Obligații privind apărarea împotriva incendiilor",
+  "sectiune": "Secţiunea a 5-a – Obligațiile autorităților administrației publice centrale",
+  "fisier": "articole/art-018.md",
+  "modificat_prin": []
+ },
+ {
+  "id": "18^1",
+  "eticheta": "Articolul 18^1",
+  "denumire": "",
+  "capitol": "Capitolul II – Obligații privind apărarea împotriva incendiilor",
+  "sectiune": "Secţiunea a 5-a – Obligațiile autorităților administrației publice centrale",
+  "fisier": "articole/art-018-1.md",
+  "modificat_prin": []
+ },
+ {
+  "id": "19",
+  "eticheta": "Articolul 19",
+  "denumire": "",
+  "capitol": "Capitolul II – Obligații privind apărarea împotriva incendiilor",
+  "sectiune": "Secţiunea a 6-a – Obligațiile administratorului, conducătorului instituției, utilizatorului și salariatului",
+  "fisier": "articole/art-019.md",
+  "modificat_prin": []
+ },
+ {
+  "id": "20",
+  "eticheta": "Articolul 20",
+  "denumire": "",
+  "capitol": "Capitolul II – Obligații privind apărarea împotriva incendiilor",
+  "sectiune": "Secţiunea a 6-a – Obligațiile administratorului, conducătorului instituției, utilizatorului și salariatului",
+  "fisier": "articole/art-020.md",
+  "modificat_prin": []
+ },
+ {
+  "id": "21",
+  "eticheta": "Articolul 21",
+  "denumire": "",
+  "capitol": "Capitolul II – Obligații privind apărarea împotriva incendiilor",
+  "sectiune": "Secţiunea a 6-a – Obligațiile administratorului, conducătorului instituției, utilizatorului și salariatului",
+  "fisier": "articole/art-021.md",
+  "modificat_prin": []
+ },
+ {
+  "id": "22",
+  "eticheta": "Articolul 22",
+  "denumire": "",
+  "capitol": "Capitolul II – Obligații privind apărarea împotriva incendiilor",
+  "sectiune": "Secţiunea a 6-a – Obligațiile administratorului, conducătorului instituției, utilizatorului și salariatului",
+  "fisier": "articole/art-022.md",
+  "modificat_prin": []
+ },
+ {
+  "id": "23",
+  "eticheta": "Articolul 23",
+  "denumire": "",
+  "capitol": "Capitolul II – Obligații privind apărarea împotriva incendiilor",
+  "sectiune": "Secţiunea a 7-a",
+  "fisier": "articole/art-023.md",
+  "modificat_prin": []
+ },
+ {
+  "id": "24",
+  "eticheta": "Articolul 24",
+  "denumire": "",
+  "capitol": "Capitolul II – Obligații privind apărarea împotriva incendiilor",
+  "sectiune": "Secţiunea a 7-a",
+  "fisier": "articole/art-024.md",
+  "modificat_prin": []
+ },
+ {
+  "id": "24^1",
+  "eticheta": "Articolul 24^1",
+  "denumire": "",
+  "capitol": "Capitolul II – Obligații privind apărarea împotriva incendiilor",
+  "sectiune": "Secţiunea a 7-a",
+  "fisier": "articole/art-024-1.md",
+  "modificat_prin": []
+ },
+ {
+  "id": "25",
+  "eticheta": "Articolul 25",
+  "denumire": "",
+  "capitol": "Capitolul II – Obligații privind apărarea împotriva incendiilor",
+  "sectiune": "Secţiunea a 7-a",
+  "fisier": "articole/art-025.md",
+  "modificat_prin": []
+ },
+ {
+  "id": "26",
+  "eticheta": "Articolul 26",
+  "denumire": "",
+  "capitol": "Capitolul II – Obligații privind apărarea împotriva incendiilor",
+  "sectiune": "Secţiunea a 8-a",
+  "fisier": "articole/art-026.md",
+  "modificat_prin": []
+ },
+ {
+  "id": "27",
+  "eticheta": "Articolul 27",
+  "denumire": "",
+  "capitol": "Capitolul II – Obligații privind apărarea împotriva incendiilor",
+  "sectiune": "Secţiunea a 8-a",
+  "fisier": "articole/art-027.md",
+  "modificat_prin": []
+ },
+ {
+  "id": "27^1",
+  "eticheta": "Articolul 27^1",
+  "denumire": "",
+  "capitol": "Capitolul II – Obligații privind apărarea împotriva incendiilor",
+  "sectiune": "Secţiunea a 8-a",
+  "fisier": "articole/art-027-1.md",
+  "modificat_prin": []
+ },
+ {
+  "id": "28",
+  "eticheta": "Articolul 28",
+  "denumire": "",
+  "capitol": "Capitolul III – Exercitarea autorității de stat în domeniul apărării împotriva incendiilor",
+  "sectiune": "",
+  "fisier": "articole/art-028.md",
+  "modificat_prin": []
+ },
+ {
+  "id": "29",
+  "eticheta": "Articolul 29",
+  "denumire": "",
+  "capitol": "Capitolul III – Exercitarea autorității de stat în domeniul apărării împotriva incendiilor",
+  "sectiune": "",
+  "fisier": "articole/art-029.md",
+  "modificat_prin": []
+ },
+ {
+  "id": "30",
+  "eticheta": "Articolul 30",
+  "denumire": "",
+  "capitol": "Capitolul III – Exercitarea autorității de stat în domeniul apărării împotriva incendiilor",
+  "sectiune": "",
+  "fisier": "articole/art-030.md",
+  "modificat_prin": [
+   "ORDONANȚA DE URGENȚĂ nr. 17 din 12 martie 2026"
+  ]
+ },
+ {
+  "id": "30^1",
+  "eticheta": "Articolul 30^1",
+  "denumire": "",
+  "capitol": "Capitolul III – Exercitarea autorității de stat în domeniul apărării împotriva incendiilor",
+  "sectiune": "",
+  "fisier": "articole/art-030-1.md",
+  "modificat_prin": []
+ },
+ {
+  "id": "30^2",
+  "eticheta": "Articolul 30^2",
+  "denumire": "",
+  "capitol": "Capitolul III – Exercitarea autorității de stat în domeniul apărării împotriva incendiilor",
+  "sectiune": "",
+  "fisier": "articole/art-030-2.md",
+  "modificat_prin": [
+   "ORDONANȚA DE URGENȚĂ nr. 17 din 12 martie 2026"
+  ]
+ },
+ {
+  "id": "30^3",
+  "eticheta": "Articolul 30^3",
+  "denumire": "",
+  "capitol": "Capitolul III – Exercitarea autorității de stat în domeniul apărării împotriva incendiilor",
+  "sectiune": "",
+  "fisier": "articole/art-030-3.md",
+  "modificat_prin": [
+   "ORDONANȚA DE URGENȚĂ nr. 17 din 12 martie 2026"
+  ]
+ },
+ {
+  "id": "30^4",
+  "eticheta": "Articolul 30^4",
+  "denumire": "",
+  "capitol": "Capitolul III – Exercitarea autorității de stat în domeniul apărării împotriva incendiilor",
+  "sectiune": "",
+  "fisier": "articole/art-030-4.md",
+  "modificat_prin": []
+ },
+ {
+  "id": "31",
+  "eticheta": "Articolul 31",
+  "denumire": "",
+  "capitol": "Capitolul III – Exercitarea autorității de stat în domeniul apărării împotriva incendiilor",
+  "sectiune": "",
+  "fisier": "articole/art-031.md",
+  "modificat_prin": []
+ },
+ {
+  "id": "32",
+  "eticheta": "Articolul 32",
+  "denumire": "",
+  "capitol": "Capitolul IV – Serviciile de urgență voluntare și private",
+  "sectiune": "Secţiunea 1 – Dispoziții comune",
+  "fisier": "articole/art-032.md",
+  "modificat_prin": []
+ },
+ {
+  "id": "33",
+  "eticheta": "Articolul 33",
+  "denumire": "",
+  "capitol": "Capitolul IV – Serviciile de urgență voluntare și private",
+  "sectiune": "Secţiunea a 2-a – Constituirea și atribuțiile serviciilor de urgență voluntare sau private",
+  "fisier": "articole/art-033.md",
+  "modificat_prin": []
+ },
+ {
+  "id": "34",
+  "eticheta": "Articolul 34",
+  "denumire": "",
+  "capitol": "Capitolul IV – Serviciile de urgență voluntare și private",
+  "sectiune": "Secţiunea a 2-a – Constituirea și atribuțiile serviciilor de urgență voluntare sau private",
+  "fisier": "articole/art-034.md",
+  "modificat_prin": []
+ },
+ {
+  "id": "35",
+  "eticheta": "Articolul 35",
+  "denumire": "",
+  "capitol": "Capitolul IV – Serviciile de urgență voluntare și private",
+  "sectiune": "Secţiunea a 2-a – Constituirea și atribuțiile serviciilor de urgență voluntare sau private",
+  "fisier": "articole/art-035.md",
+  "modificat_prin": []
+ },
+ {
+  "id": "36",
+  "eticheta": "Articolul 36",
+  "denumire": "",
+  "capitol": "Capitolul IV – Serviciile de urgență voluntare și private",
+  "sectiune": "Secţiunea a 2-a – Constituirea și atribuțiile serviciilor de urgență voluntare sau private",
+  "fisier": "articole/art-036.md",
+  "modificat_prin": []
+ },
+ {
+  "id": "37",
+  "eticheta": "Articolul 37",
+  "denumire": "",
+  "capitol": "Capitolul IV – Serviciile de urgență voluntare și private",
+  "sectiune": "Secţiunea a 2-a – Constituirea și atribuțiile serviciilor de urgență voluntare sau private",
+  "fisier": "articole/art-037.md",
+  "modificat_prin": []
+ },
+ {
+  "id": "38",
+  "eticheta": "Articolul 38",
+  "denumire": "",
+  "capitol": "Capitolul IV – Serviciile de urgență voluntare și private",
+  "sectiune": "Secţiunea a 3-a – Drepturi, indemnizații și despăgubiri ce se acordă personalului serviciilor de urgență voluntare sau private",
+  "fisier": "articole/art-038.md",
+  "modificat_prin": []
+ },
+ {
+  "id": "39",
+  "eticheta": "Articolul 39",
+  "denumire": "",
+  "capitol": "Capitolul IV – Serviciile de urgență voluntare și private",
+  "sectiune": "Secţiunea a 3-a – Drepturi, indemnizații și despăgubiri ce se acordă personalului serviciilor de urgență voluntare sau private",
+  "fisier": "articole/art-039.md",
+  "modificat_prin": []
+ },
+ {
+  "id": "40",
+  "eticheta": "Articolul 40",
+  "denumire": "",
+  "capitol": "Capitolul IV – Serviciile de urgență voluntare și private",
+  "sectiune": "Secţiunea a 3-a – Drepturi, indemnizații și despăgubiri ce se acordă personalului serviciilor de urgență voluntare sau private",
+  "fisier": "articole/art-040.md",
+  "modificat_prin": []
+ },
+ {
+  "id": "41",
+  "eticheta": "Articolul 41",
+  "denumire": "",
+  "capitol": "Capitolul IV – Serviciile de urgență voluntare și private",
+  "sectiune": "Secţiunea a 3-a – Drepturi, indemnizații și despăgubiri ce se acordă personalului serviciilor de urgență voluntare sau private",
+  "fisier": "articole/art-041.md",
+  "modificat_prin": []
+ },
+ {
+  "id": "42",
+  "eticheta": "Articolul 42",
+  "denumire": "",
+  "capitol": "Capitolul IV – Serviciile de urgență voluntare și private",
+  "sectiune": "Secţiunea a 3-a – Drepturi, indemnizații și despăgubiri ce se acordă personalului serviciilor de urgență voluntare sau private",
+  "fisier": "articole/art-042.md",
+  "modificat_prin": []
+ },
+ {
+  "id": "43",
+  "eticheta": "Articolul 43",
+  "denumire": "",
+  "capitol": "Capitolul IV – Serviciile de urgență voluntare și private",
+  "sectiune": "Secţiunea a 3-a – Drepturi, indemnizații și despăgubiri ce se acordă personalului serviciilor de urgență voluntare sau private",
+  "fisier": "articole/art-043.md",
+  "modificat_prin": []
+ },
+ {
+  "id": "44",
+  "eticheta": "Articolul 44",
+  "denumire": "",
+  "capitol": "Capitolul V – Răspunderea juridică",
+  "sectiune": "",
+  "fisier": "articole/art-044.md",
+  "modificat_prin": []
+ },
+ {
+  "id": "45",
+  "eticheta": "Articolul 45",
+  "denumire": "",
+  "capitol": "Capitolul V – Răspunderea juridică",
+  "sectiune": "",
+  "fisier": "articole/art-045.md",
+  "modificat_prin": []
+ },
+ {
+  "id": "46",
+  "eticheta": "Articolul 46",
+  "denumire": "",
+  "capitol": "Capitolul V – Răspunderea juridică",
+  "sectiune": "",
+  "fisier": "articole/art-046.md",
+  "modificat_prin": [
+   "ORDONANȚA DE URGENȚĂ nr. 17 din 12 martie 2026"
+  ]
+ },
+ {
+  "id": "47",
+  "eticheta": "Articolul 47",
+  "denumire": "",
+  "capitol": "Capitolul V – Răspunderea juridică",
+  "sectiune": "",
+  "fisier": "articole/art-047.md",
+  "modificat_prin": []
+ },
+ {
+  "id": "48",
+  "eticheta": "Articolul 48",
+  "denumire": "",
+  "capitol": "Capitolul V – Răspunderea juridică",
+  "sectiune": "",
+  "fisier": "articole/art-048.md",
+  "modificat_prin": []
+ },
+ {
+  "id": "49",
+  "eticheta": "Articolul 49",
+  "denumire": "",
+  "capitol": "Capitolul VI – Dispoziții finale",
+  "sectiune": "",
+  "fisier": "articole/art-049.md",
+  "modificat_prin": []
+ },
+ {
+  "id": "50",
+  "eticheta": "Articolul 50",
+  "denumire": "",
+  "capitol": "Capitolul VI – Dispoziții finale",
+  "sectiune": "",
+  "fisier": "articole/art-050.md",
+  "modificat_prin": []
+ },
+ {
+  "id": "51",
+  "eticheta": "Articolul 51",
+  "denumire": "",
+  "capitol": "Capitolul VI – Dispoziții finale",
+  "sectiune": "",
+  "fisier": "articole/art-051.md",
+  "modificat_prin": []
+ },
+ {
+  "id": "52",
+  "eticheta": "Articolul 52",
+  "denumire": "",
+  "capitol": "Capitolul VI – Dispoziții finale",
+  "sectiune": "",
+  "fisier": "articole/art-052.md",
+  "modificat_prin": []
+ },
+ {
+  "id": "53",
+  "eticheta": "Articolul 53",
+  "denumire": "",
+  "capitol": "Capitolul VI – Dispoziții finale",
+  "sectiune": "",
+  "fisier": "articole/art-053.md",
+  "modificat_prin": []
+ },
+ {
+  "id": "54",
+  "eticheta": "Articolul 54",
+  "denumire": "",
+  "capitol": "Capitolul VI – Dispoziții finale",
+  "sectiune": "",
+  "fisier": "articole/art-054.md",
+  "modificat_prin": []
+ },
+ {
+  "id": "55",
+  "eticheta": "Articolul 55",
+  "denumire": "",
+  "capitol": "Capitolul VI – Dispoziții finale",
+  "sectiune": "",
+  "fisier": "articole/art-055.md",
+  "modificat_prin": []
+ },
+ {
+  "id": "56",
+  "eticheta": "Articolul 56",
+  "denumire": "",
+  "capitol": "Capitolul VI – Dispoziții finale",
+  "sectiune": "",
+  "fisier": "articole/art-056.md",
+  "modificat_prin": []
+ },
+ {
+  "id": "57",
+  "eticheta": "Articolul 57",
+  "denumire": "",
+  "capitol": "Capitolul VI – Dispoziții finale",
+  "sectiune": "",
+  "fisier": "articole/art-057.md",
+  "modificat_prin": []
+ },
+ {
+  "id": "57^1",
+  "eticheta": "Articolul 57^1",
+  "denumire": "",
+  "capitol": "Capitolul VI – Dispoziții finale",
+  "sectiune": "",
+  "fisier": "articole/art-057-1.md",
+  "modificat_prin": []
+ },
+ {
+  "id": "58",
+  "eticheta": "Articolul 58",
+  "denumire": "",
+  "capitol": "Capitolul VI – Dispoziții finale",
+  "sectiune": "",
+  "fisier": "articole/art-058.md",
+  "modificat_prin": []
+ },
+ {
+  "id": "ARTICOL UNIC",
+  "eticheta": "ARTICOL UNIC",
+  "denumire": "",
+  "capitol": "Capitolul VI – Dispoziții finale",
+  "sectiune": "",
+  "fisier": "articole/art-unic-nota.md",
+  "modificat_prin": []
+ }
+]
